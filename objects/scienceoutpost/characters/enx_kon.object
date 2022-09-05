@@ -1,0 +1,55 @@
+{
+  "objectName" : "enx_kon",
+  "colonyTags" : ["scienceoutpost"],
+  "rarity" : "rare",
+  "description" : "Um... I'm flattered you want me around, I am! But... don't take this the wrong way, but please put me down.",
+  "shortdescription" : "Kon",
+  "race" : "generic",
+  "printable" : false,
+  "category" : "decorative",
+  "price" : 0,
+
+  "genericDescription" : "This creature is named Kon. Very adorable.",
+  "apexDescription" : "This is Kon of the Pichilids. Reminds me of my pet weasel.",
+  "avianDescription" : "Oh, so this is Kon! Thank you for your help.",
+  "floranDescription" : "Kon lookss tassty! Probably shouldn't mess with him, though.",
+  "glitchDescription" : "Delighted. A winsome individual with characteristics of a stoat and a fairy armadillo.",
+  "humanDescription" : "Kon is cute AND smart? He's got everything already!",
+  "hylotlDescription" : "I appreciate your help, Kon.",
+  "novakidDescription" : "Purdy fella saved me from flyin' too close to the sun, so thanks!",
+  "avaliDescription" : "Oh, I heard these guys hit hard when they roll up into a ball! Haven't seen many of them around, though.",
+
+ "inventoryIcon" : "enx_kon.png:default",
+ "orientations" : [
+   {
+     "image" : "enx_kon.png:<color>.<frame>",
+     "direction" : "left",
+     "imagePosition" : [-8, 0],
+     "frames" : 24,
+     "animationCycle" : 3.5,
+     "spaceScan" : 0.1,
+     "anchors" : [ "bottom" ]
+   },
+   {
+     "image" : "enx_kon.png:<color>.<frame>",
+     "direction" : "right",
+     "imagePosition" : [-8, 0],
+     "frames" : 24,
+     "animationCycle" : 3.5,
+     "spaceScan" : 0.1,
+     "anchors" : [ "bottom" ]
+    }
+  ],
+  "scripts" : ["/scripts/chattyObject.lua"],
+  "scriptDelta" : 60,
+  "chatOptions" : [
+    "I'm sure you'll find one of my fellow Pichilids somewhere in the galaxy! We're a bit off the beaten path, though.",
+  	"I thought I was a pure carnivore, since I'm somewhere between armadillo and stoat. Lucky for me, I'm an omnivore!",
+  	"If you find Dr. Bright, can you tell her to contact me? This transmission is very weird, and I'd like her opinion.",
+	  "A base of tomato sauce, mix in some grape jelly, and meats and spices of your choice... let stew, and voila! A sweet and savory touch to your protein!",
+    "Ah, I do miss Earth. Friendly folks and a very diverse ecosystem. I'd like to make some vitamin sweets to help remember them by.",
+    "Everyone keeps saying I look like sushi. But... how? My dorsal shell doesn't look anything like fish!",
+    "Brickass wants to sell me-shaped sushi to raise funds, and... I don't know how to feel about that. It's a cute idea, but why me?",
+    "I'm a food scientist, but I still have a working oracle AI companion. It helps me with a lot of things outside my expertise."
+  ]
+}
