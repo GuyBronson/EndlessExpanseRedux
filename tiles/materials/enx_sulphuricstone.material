@@ -1,0 +1,20 @@
+{
+  "materialId" : 7255,
+  "materialName" : "enx_sulphuricstone",
+  "particleColor" : [109, 78, 52, 255],
+  "itemDrop" : "enx_sulphuricstone",
+  "description" : "Best not to crack it open unprepared.",
+  "shortdescription" : "Sulphuric Stone",
+  "footstepSound" : "/sfx/blocks/footstep_stone2.ogg",
+  "health" : 11,
+  "category": "materials",
+  "renderTemplate" : "/tiles/fuclassicnopaint.config",
+  "renderParameters" : {
+    "texture" : "enx_sulphuricstone.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}

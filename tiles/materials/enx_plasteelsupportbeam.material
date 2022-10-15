@@ -1,0 +1,20 @@
+{
+  "materialId" : 7237,
+  "materialName" : "enx_plasteelsupportbeam",
+  "particleColor" : [135, 135, 135, 255],
+  "itemDrop" : "enx_plasteelsupportbeam",
+  "description" : "Sturdy enough to bear heavy loads, for sure.",
+  "shortdescription" : "Plasteel Support Beam",
+  "footstepSound" : "/sfx/blocks/footstep_composite.ogg",
+  "health" : 10,
+  "category": "materials",
+  "renderTemplate" : "/tiles/girdertemplate.config",
+  "renderParameters" : {
+    "texture" : "enx_plasteelsupportbeam.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : false,
+    "multiColored" : false,
+    "zLevel" : 60
+  }
+}

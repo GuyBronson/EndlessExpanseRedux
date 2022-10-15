@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_interloperchain",
+    "category": "block",
+    "rarity": "rare",
+    "inventoryIcon": "enx_interloperchain.png",
+    "description": "A super strong chain with design of unknown origin.\n^green;Extractable^reset;.",
+    "shortdescription": "Interloper Chain",
+    "materialId": 7203
+}

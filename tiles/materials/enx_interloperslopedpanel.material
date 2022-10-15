@@ -1,0 +1,20 @@
+{
+  "materialId" : 7213,
+  "materialName" : "enx_interloperslopedpanel",
+  "particleColor" : [60, 60, 60, 255],
+  "itemDrop" : "enx_interloperslopedpanel",
+  "description": "Glorious ancient metal, that can be sloped!\n^green;Extractable^reset;.",
+  "shortdescription" : "Interloper Sloped Panel",
+  "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
+  "health" : 16,
+  "category" : "materials",
+  "renderTemplate" : "/tiles/slopedmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "enx_interloperslopedpanel.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : false,
+    "zLevel" : 4998
+  }
+}

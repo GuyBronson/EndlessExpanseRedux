@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_boneyflesh",
+    "category": "block",
+    "rarity": "Common",
+    "inventoryIcon": "enx_boneyflesh.png",
+    "shortdescription": "Boney Flesh",
+    "description": "Better not think too hard about who these bones belonged to.\n^green;Extractable^reset;.",
+    "materialId": 7182
+}

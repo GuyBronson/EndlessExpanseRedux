@@ -1,0 +1,9 @@
+{
+  "itemName" : "enx_plasteeltechpanel",
+  "category" : "block",
+  "rarity" : "rare",
+  "inventoryIcon" : "enx_plasteeltechpanel.png",
+  "description" : "Looks tech-y enough to fit into a lab.",
+  "shortdescription" : "Plasteel Tech Panel",
+  "materialId" : 7238
+}

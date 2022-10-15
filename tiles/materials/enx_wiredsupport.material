@@ -1,0 +1,23 @@
+{
+  "materialId" : 7267,
+  "materialName" : "enx_wiredsupport",
+  "frames" : "enx_wiredsupport.png",
+  "particleColor" : [110, 110, 110, 255],
+  "variants" : 1,
+  "itemDrop" : "enx_wiredsupport",
+  "description" : "A super-strong alloy support beam.",
+  "shortdescription" : "Wire Support",
+  "novakidDescription" : "Made for holdin' spaceships together.",
+  "footstepSound" : "/sfx/blocks/footstep_girder.ogg",
+  "health" : 8,
+  "category" : "materials",
+  "renderTemplate" : "/tiles/girdertemplate.config",
+  "renderParameters" : {
+    "texture" : "enx_wiredsupport.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 3340
+  }
+}

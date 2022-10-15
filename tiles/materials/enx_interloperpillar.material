@@ -1,0 +1,20 @@
+{
+  "materialId" : 7209,
+  "materialName" : "enx_interloperpillar",
+  "particleColor" : [60, 60, 60, 255],
+  "itemDrop" : "enx_interloperpillar",
+  "description": "Some super-sturdy pillar, supporting not-so-sturdy structures, sturdily.\n^green;Extractable^reset;.",
+  "shortdescription" : "Interloper Pillar",
+  "footstepSound" : "/sfx/blocks/footstep_composite.ogg",
+  "health" : 32,
+  "category": "materials",
+  "renderTemplate" : "/tiles/screwtemplate.config",
+  "renderParameters" : {
+    "texture" : "enx_interloperpillar.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : false,
+    "multiColored" : false,
+    "zLevel" : 2771
+  }
+}

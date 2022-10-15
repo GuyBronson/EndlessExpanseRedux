@@ -1,0 +1,21 @@
+{
+  "materialId" : 7252,
+  "materialName" : "enx_steelgrain",
+  "particleColor" : [176, 174, 168, 255],
+  "itemDrop" : "enx_steelgrain",
+  "description" : "Fine flakes of metal.",
+  "shortdescription" : "Steel Grain",
+  "footstepSound" : "/sfx/blocks/footstep_ash.ogg",
+  "soil" : false,
+  "health" : 2.5,
+  "category": "materials",
+  "renderTemplate" : "/tiles/fuclassicnopaint.config",
+  "renderParameters" : {
+    "texture" : "enx_steelgrain.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "multiColored" : true,
+    "occludesBelow" : true,
+    "zLevel" : 400
+  }
+}

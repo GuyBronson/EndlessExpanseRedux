@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_fungalstone",
+    "category": "block",
+    "rarity": "Common",
+    "inventoryIcon": "enx_fungalstone.png",
+    "shortdescription": "Fungal Stone",
+    "description": "Spore-covered stone.\n^green;Extractable^reset;.",
+    "materialId": 7199
+}

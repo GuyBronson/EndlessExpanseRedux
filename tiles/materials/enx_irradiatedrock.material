@@ -1,0 +1,21 @@
+{
+  "materialId" : 7217,
+  "materialName" : "enx_irradiatedrock",
+  "particleColor" : [117, 140, 94, 255],
+  "itemDrop" : "enx_irradiatedrock",
+  "description" : "Going near this stone doesn't make you glow, so it may be safe?",
+  "shortdescription" : "Radioactive Rock",
+  "footstepSound" : "/sfx/blocks/footstep_stone2.ogg",
+  "health" : 8,
+  "soil" : true,
+  "category": "materials",
+  "renderTemplate" : "/tiles/fuclassicnopaint.config",
+  "renderParameters" : {
+    "texture" : "enx_irradiatedrock.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}

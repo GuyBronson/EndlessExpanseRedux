@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_sulphuricdirt",
+    "category": "block",
+    "rarity": "Common",
+    "inventoryIcon": "enx_sulphuricdirt.png",
+    "shortdescription": "Sulphuric Dirt",
+    "description": "Dirt, rich with toxic sulphur.\n^green;Extractable^reset;, ^orange;Siftable^reset;.",
+    "materialId": 7254
+}

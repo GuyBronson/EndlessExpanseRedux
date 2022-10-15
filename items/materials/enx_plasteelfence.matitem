@@ -1,0 +1,9 @@
+{
+  "itemName" : "enx_plasteelfence",
+  "category" : "block",
+  "rarity" : "rare",
+  "inventoryIcon" : "enx_plasteelfence.png",
+  "description" : "Sturdy plasteel. Great for building a lab.",
+  "shortdescription" : "Plasteel Fence",
+  "materialId" : 7234
+}

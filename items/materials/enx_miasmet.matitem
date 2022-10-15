@@ -1,0 +1,10 @@
+{
+    "itemName": "enx_miasmet",
+    "price": 0,
+    "category": "block",
+    "rarity": "Common",
+    "inventoryIcon": "enx_miasmet.png",
+    "description": "A material made from ionic matter, similar to plasma.\n^green;Extractable^reset;.",
+    "shortdescription": "Miasmet",
+    "materialId": 7228
+}

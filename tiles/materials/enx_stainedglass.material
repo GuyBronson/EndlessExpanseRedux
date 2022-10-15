@@ -1,0 +1,20 @@
+{
+  "materialId" : 7251,
+  "materialName" : "enx_stainedglass",
+  "particleColor" : [45, 87, 66, 255],
+  "itemDrop" : "enx_stainedglass",
+  "description" : "Airy, light and beautiful glass.",
+  "shortdescription" : "Stained Glass",
+  "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
+  "health" : 15,
+  "category" : "materials",
+  "renderTemplate" : "/tiles/slopedmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "enx_stainedglass.png",
+    "variants" : 3,
+    "lightTransparent" : true,
+    "occludesBelow" : true,
+    "multiColored" : false,
+    "zLevel" : 5000
+  }
+}

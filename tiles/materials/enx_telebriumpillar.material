@@ -1,0 +1,20 @@
+{
+  "materialId" : 7259,
+  "materialName" : "enx_telebriumpillar",
+  "particleColor" : [27, 198, 141, 255],
+  "itemDrop" : "enx_telebriumpillar",
+  "shortdescription" : "Telebrium Pillar",
+  "description" : "A fancy pillar fashioned from telebrium.",
+  "footstepSound" : "/sfx/blocks/footstep_stone3.ogg",
+  "health" : 12,
+  "category" : "materials",
+  "renderTemplate" : "/tiles/columntemplate.config",
+  "renderParameters" : {
+    "texture" : "enx_telebriumpillar.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : false,
+    "zLevel" : 2770
+  }
+}

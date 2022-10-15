@@ -1,0 +1,11 @@
+{
+    "itemName": "enx_darkstone",
+    "category": "block",
+    "rarity": "Common",
+    "inventoryIcon": "enx_darkstone.png",
+    "description": "A solid stone made of darkness.\n^green;Extractable^reset;, ^orange;Crushable^reset;.",
+    "shortdescription": "Darkstone",
+    "glitchDescription": "Confused. Solid darkness?",
+    "floranDescription": "Sssscary block.",
+    "materialId": 7189
+}

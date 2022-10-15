@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_interlopertechtile",
+    "category": "block",
+    "rarity": "rare",
+    "inventoryIcon": "enx_interlopertechtile.png",
+    "description": "One can only guess what these blocks of tech are used for.\n^green;Extractable^reset;.",
+	"shortdescription" : "Interloper Tech Tile",
+    "materialId": 7215
+}

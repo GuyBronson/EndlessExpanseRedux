@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_cell",
+    "category": "block",
+    "rarity": "Common",
+    "inventoryIcon": "enx_cell.png",
+    "description": "A gigantic cell.\n^green;Extractable^reset;.",
+    "shortdescription": "Cell",
+    "materialId": 7184
+}

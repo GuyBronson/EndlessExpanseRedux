@@ -1,0 +1,21 @@
+{
+  "materialId" : 7186,
+  "materialName" : "enx_compressedalloystairs",
+  "particleColor" : [110, 110, 110, 255],
+  "itemDrop" : "enx_compressedalloystairs",
+  "description" : "A platform able to support exceptional amounts of weight.",
+  "shortdescription" : "Compressed Alloy Stairs",
+  "collisionKind" : "platform",
+  "footstepSound" : "/sfx/blocks/footstep_composite.ogg",
+  "category" : "Supports",
+
+  "renderTemplate" : "/tiles/platformtemplate.config",
+  "renderParameters" : {
+    "texture" : "enx_compressedalloystairs.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : false,
+    "zLevel" : 0
+  }
+}

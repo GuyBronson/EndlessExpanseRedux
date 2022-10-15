@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_interloperglasswall",
+    "category": "block",
+    "rarity": "rare",
+    "inventoryIcon": "enx_interloperglasswall.png",
+    "description": "Sturdy, yet malleable glass.\n^green;Extractable^reset;.",
+    "shortdescription": "Interloper Glass Wall",
+    "materialId": 7206
+}

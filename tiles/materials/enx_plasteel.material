@@ -1,0 +1,20 @@
+{
+  "materialId" : 7232,
+  "materialName" : "enx_plasteel",
+  "particleColor" : [135, 135, 135, 255],
+  "itemDrop" : "enx_plasteel",
+  "description" : "Sturdy plasteel. Great for building a lab.",
+  "shortdescription" : "Plasteel",
+  "footstepSound" : "/sfx/blocks/footstep_composite.ogg",
+  "health" : 10,
+  "category": "materials",
+  "renderTemplate" : "/tiles/fuclassicnopaint.config",
+  "renderParameters" : {
+    "texture" : "enx_plasteel.png",
+    "variants" : 6,
+    "lightTransparent" : false,
+    "multiColored" : true,
+    "occludesBelow" : true,
+    "zLevel" : 60
+  }
+}

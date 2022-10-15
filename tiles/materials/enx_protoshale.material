@@ -1,0 +1,22 @@
+{
+  "materialId" : 7241,
+  "materialName" : "enx_protoshale",
+  "particleColor" : [104, 0, 104, 255],
+  "itemDrop" : "enx_protoshale",
+  "description" : "This soil appears to have been heavily altered by an unknown agent.",
+  "shortdescription" : "Proto Shale",
+  "footstepSound" : "/sfx/blocks/footstep_dirt.ogg",
+  "tillableMod" : 31,
+  "soil" : true,
+  "health" : 5,
+  "category": "materials",
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "enx_protoshale.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_interloperstairs.",
+    "category": "platform",
+    "rarity": "legendary",
+    "inventoryIcon": "enx_interloperstairs.png",
+    "description": "Even techier than escalators.\n^green;Extractable^reset;.",
+    "shortdescription": "Interloper Stairs",
+    "materialId": 7214
+}

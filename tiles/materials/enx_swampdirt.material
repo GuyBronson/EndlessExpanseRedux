@@ -1,0 +1,24 @@
+{
+  "materialId" : 7256,
+  "materialName" : "enx_swampdirt",
+  "variants" : 5,
+  "particleColor" : [72, 80, 64, 255],
+  "itemDrop" : "enx_swampdirt",
+  "description" : "Icky, slimy dirt.",
+  "shortdescription" : "Swamp Dirt",
+  "footstepSound" : "/sfx/blocks/footstep_dirt.ogg",
+  "health" : 3,
+  "tillableMod" : 31,
+  "soil" : true,
+  "damageTable" : "/tiles/flammableDamage.config",
+  "category": "materials",
+  "renderTemplate" : "/tiles/fuclassicnopaint.config",
+  "renderParameters" : {
+    "texture" : "enx_swampdirt.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}

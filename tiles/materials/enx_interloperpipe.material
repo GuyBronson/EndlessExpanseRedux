@@ -1,0 +1,22 @@
+{
+  "materialId" : 7210,
+  "materialName" : "enx_interloperpipe",
+  "particleColor" : [166, 166, 166, 255],
+  "itemDrop" : "enx_interloperpipe",
+  "description" : "Thick, super-dense pipes made of an unknown alloy.",
+  "shortdescription" : "Interloper Pipe",
+  "footstepSound" : "/sfx/blocks/footstep_girder.ogg",
+  "health" : 7,
+  "category": "materials",
+  "blocksLiquidFlow" : false,
+  "renderTemplate" : "/tiles/enx_pipetemplate.config",
+  "renderParameters" : {
+    "texture" : "enx_interloperpipe.png",
+    "variants" : 10,
+    "lightTransparent" : false,
+    "blocksLiquidFlow" : false,
+    "occludesBelow" : false,
+    "multiColored" : false,
+    "zLevel" : 3000
+  }
+}

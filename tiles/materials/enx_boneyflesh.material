@@ -1,0 +1,20 @@
+{
+  "materialId" : 7182,
+  "materialName" : "enx_boneyflesh",
+  "particleColor" : [199, 36, 63, 225],
+  "itemDrop" : "enx_boneyflesh",
+  "description" : "Better not think too hard about who these bones belonged to",
+  "shortdescription" : "Boney Flesh",
+  "footstepSound" : "/sfx/blocks/footstep_bone.ogg",
+  "health" : 2,
+  "category": "materials",
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "enx_boneyflesh.png",
+    "variants" : 10,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 60
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_coral",
+    "category": "block",
+    "rarity": "Common",
+    "inventoryIcon": "enx_coral.png",
+    "description": "A block of ancient coral.\n^green;Extractable^reset;, ^orange;Crushable^reset;.",
+    "shortdescription": "Coral",
+    "materialId": 7188
+}

@@ -1,0 +1,548 @@
+{
+    "name" : "enxmastermaterials",
+    "columns" : 0,
+    "margin" : 0,
+    "spacing" : 0,
+    "tileheight" : 8,
+    "tilewidth" : 8,
+    "tilecount" : 560,
+    "type" : "tileset",
+    "tileproperties" : {
+        "0" : {
+            "material" : "enx_aliengrass"
+        },
+        "1" : {
+            "material" : "enx_aliensoil"
+        },
+        "2" : {
+            "material" : "enx_ancientmetal"
+        },
+        "3" : {
+            "material" : "enx_blockofcorruption"
+        },
+        "4" : {
+            "material" : "enx_bonemeal"
+        },
+        "5" : {
+            "material" : "enx_burningvolcanicrock"
+        },
+        "6" : {
+            "material" : "enx_cell"
+        },
+        "7" : {
+            "material" : "enx_chromaticdirt"
+        },
+        "8" : {
+            "material" : "enx_compressedalloystairs"
+        },
+        "9" : {
+            "material" : "enx_cooledvolcanicrock"
+        },
+        "10" : {
+            "material" : "enx_coral"
+        },
+        "11" : {
+            "material" : "enx_darkstone"
+        },
+        "12" : {
+            "material" : "enx_deepfrozenice"
+        },
+        "13" : {
+            "material" : "enx_delicatecoral"
+        },
+        "14" : {
+            "material" : "enx_durablesupport"
+        },
+        "15" : {
+            "material" : "enx_eldercarvedstone"
+        },
+        "16" : {
+            "material" : "enx_eldersoil"
+        },
+        "17" : {
+            "material" : "enx_elderstone"
+        },
+        "18" : {
+            "material" : "enx_eldertemplebricks"
+        },
+        "19" : {
+            "material" : "enx_energywood"
+        },
+        "20" : {
+            "material" : "enx_frozenstone"
+        },
+        "21" : {
+            "material" : "enx_fungalstone"
+        },
+        "22" : {
+            "material" : "enx_glassfence"
+        },
+        "23" : {
+            "material" : "enx_glowingspongeyshroom"
+        },
+        "24" : {
+            "material" : "enx_interloperbrightgirder"
+        },
+        "25" : {
+            "material" : "enx_interloperchain"
+        },
+        "26" : {
+            "material" : "enx_interloperfloor"
+        },
+        "27" : {
+            "material" : "enx_interlopergirder"
+        },
+        "28" : {
+            "material" : "enx_interloperglasswall"
+        },
+        "29" : {
+            "material" : "enx_interloperlitfloor"
+        },
+        "30" : {
+            "material" : "enx_interloperpanel"
+        },
+        "31" : {
+            "material" : "enx_interloperpillar"
+        },
+        "32" : {
+            "material" : "enx_interloperpipe"
+        },
+        "33" : {
+            "material" : "enx_interloperrunetile"
+        },
+        "34" : {
+            "material" : "enx_interloperscreen"
+        },
+        "35" : {
+            "material" : "enx_interloperslopedpanel"
+        },
+        "36" : {
+            "material" : "enx_interloperstairs"
+        },
+        "37" : {
+            "material" : "enx_interlopertechtile"
+        },
+        "38" : {
+            "material" : "enx_interloperwallpanel"
+        },
+        "39" : {
+            "material" : "enx_irradiatedrock"
+        },
+        "40" : {
+            "material" : "enx_jaggedice"
+        },
+        "41" : {
+            "material" : "enx_labpillar"
+        },
+        "42" : {
+            "material" : "enx_labpipe"
+        },
+        "43" : {
+            "material" : "enx_labscreen"
+        },
+        "44" : {
+            "material" : "enx_lichenstone"
+        },
+        "45" : {
+            "material" : "enx_livingstone"
+        },
+        "46" : {
+            "material" : "enx_marestone"
+        },
+        "47" : {
+            "material" : "enx_metalbaseboard"
+        },
+        "48" : {
+            "material" : "enx_metallicslab"
+        },
+        "49" : {
+            "material" : "enx_metallictrim"
+        },
+        "50" : {
+            "material" : "enx_metalwalkway"
+        },
+        "51" : {
+            "material" : "enx_miasmet"
+        },
+        "52" : {
+            "material" : "enx_mossyrocks"
+        },
+        "53" : {
+            "material" : "enx_overgrowndirt"
+        },
+        "54" : {
+            "material" : "enx_overgrownironbars"
+        },
+        "55" : {
+            "material" : "enx_plasteel"
+        },
+        "56" : {
+            "material" : "enx_plasteelbeam"
+        },
+        "57" : {
+            "material" : "enx_plasteelfence"
+        },
+        "58" : {
+            "material" : "enx_plasteeltechpanel"
+		},
+        "59" : {
+            "material" : "enx_primitivesupport"
+        },
+        "60" : {
+            "material" : "enx_protogravel"
+        },
+        "61" : {
+            "material" : "enx_protoshale"
+        },
+        "62" : {
+            "material" : "enx_protosoil"
+        },
+        "63" : {
+            "material" : "enx_protostone"
+        },
+        "64" : {
+            "material" : "enx_rostone"
+        },
+        "65" : {
+            "material" : "enx_roughslatestone"
+        },
+        "66" : {
+            "material" : "enx_sandpillar"
+        },
+        "67" : {
+            "material" : "enx_slimysoil"
+        },
+        "68" : {
+            "material" : "enx_slopedplasteelhull"
+        },
+        "69" : {
+            "material" : "enx_smoothbridgeblock"
+        },
+        "70" : {
+            "material" : "enx_spongeymushroom"
+        },
+        "71" : {
+            "material" : "enx_stainedglass"
+        },
+        "72" : {
+            "material" : "enx_steelgrain"
+        },
+        "73" : {
+            "material" : "enx_stripedwallpanel"
+        },
+        "74" : {
+            "material" : "enx_sulphuricdirt"
+        },
+        "75" : {
+            "material" : "enx_sulphuricstone"
+        },
+        "76" : {
+            "material" : "enx_swampdirt"
+        },
+        "77" : {
+            "material" : "enx_telebriumblock"
+        },
+        "78" : {
+            "material" : "enx_telebriumpanel"
+        },
+        "79" : {
+            "material" : "enx_telebriumpillar"
+        },
+        "80" : {
+            "material" : "enx_titaniumwall"
+        },
+        "81" : {
+            "material" : "enx_umbraldirt"
+        },
+        "82" : {
+            "material" : "enx_volcanicrock"
+        },
+        "83" : {
+            "material" : "enx_warts"
+        },
+        "84" : {
+            "material" : "enx_wastestone"
+        },
+        "85" : {
+            "material" : "enx_weatheredtimber"
+        },
+        "86" : {
+            "material" : "enx_wickerstairs"
+        },
+        "87" : {
+            "material" : "enx_wiredsupport"
+        }
+    },
+    "tiles" : {
+        "0" : {
+            "image" : "../tiled/enx/materials/enx_aliengrass.png"
+        },
+        "1" : {
+            "image" : "../tiled/enx/materials/enx_aliensoil.png"
+        },
+        "2" : {
+            "image" : "../tiled/enx/materials/enx_ancientmetal.png"
+        },
+        "3" : {
+            "image" : "../tiled/enx/materials/enx_blockofcorruption.png"
+        },
+        "4" : {
+            "image" : "../tiled/enx/materials/enx_bloodycrystal.png"
+        },
+        "5" : {
+            "image" : "../tiled/enx/materials/enx_bloodstone.png"
+        },
+        "6" : {
+            "image" : "../tiled/enx/materials/enx_bonemeal.png"
+        },
+        "7" : {
+            "image" : "../tiled/enx/materials/enx_boneyflesh.png"
+        },
+        "8" : {
+            "image" : "../tiled/enx/materials/enx_burningvolcanicrock.png"
+        },
+        "9" : {
+            "image" : "../tiled/enx/materials/enx_cell.png"
+        },
+        "7" : {
+            "image" : "../tiled/enx/materials/enx_chromaticdirt.png"
+        },
+        "8" : {
+            "image" : "../tiled/enx/materials/enx_compressedalloystairs.png"
+        },
+        "9" : {
+            "image" : "../tiled/enx/materials/enx_cooledvolcanicstone.png"
+        },
+        "10" : {
+            "image" : "../tiled/enx/materials/enx_coral.png"
+        },
+        "11" : {
+            "image" : "../tiled/enx/materials/enx_darkstone.png"
+        },
+        "12" : {
+            "image" : "../tiled/enx/materials/enx_deepfrozenice.png"
+        },
+        "13" : {
+            "image" : "../tiled/enx/materials/enx_delicatecoral.png"
+        },
+        "14" : {
+            "image" : "../tiled/enx/materials/enx_durablesupport.png"
+        },
+        "15" : {
+            "image" : "../tiled/enx/materials/enx_eldercarvedstone.png"
+        },
+        "16" : {
+            "image" : "../tiled/enx/materials/enx_eldersoil.png"
+        },
+        "17" : {
+            "image" : "../tiled/enx/materials/enx_elderstone.png"
+        },
+        "18" : {
+            "image" : "../tiled/enx/materials/enx_eldertemplebricks.png"
+        },
+        "19" : {
+            "image" : "../tiled/enx/materials/enx_energywood.png"
+        },
+        "20" : {
+            "image" : "../tiled/enx/materials/enx_frozenstone.png"
+        },
+        "21" : {
+            "image" : "../tiled/enx/materials/enx_fungalstone.png"
+        },
+        "22" : {
+            "image" : "../tiled/enx/materials/enx_glassfence.png"
+        },
+        "23" : {
+            "image" : "../tiled/enx/materials/enx_glowingspongeyshroom.png"
+        },
+        "24" : {
+            "image" : "../tiled/enx/materials/enx_interloperbrightgirder.png"
+        },
+        "25" : {
+            "image" : "../tiled/enx/materials/enx_interloperchain.png"
+        },
+        "26" : {
+            "image" : "../tiled/enx/materials/enx_interloperfloor.png"
+        },
+        "27" : {
+            "image" : "../tiled/enx/materials/enx_interlopergirder.png"
+        },
+        "28" : {
+            "image" : "../tiled/enx/materials/enx_interloperglasswall.png"
+        },
+        "29" : {
+            "image" : "../tiled/enx/materials/enx_interloperlitfloor.png"
+        },
+        "30" : {
+            "image" : "../tiled/enx/materials/enx_interloperpanel.png"
+        },
+        "31" : {
+            "image" : "../tiled/enx/materials/enx_interloperpillar.png"
+        },
+        "32" : {
+            "image" : "../tiled/enx/materials/enx_interloperpipe.png"
+        },
+        "33" : {
+            "image" : "../tiled/enx/materials/enx_interloperrunetile.png"
+        },
+        "34" : {
+            "image" : "../tiled/enx/materials/enx_interloperscreen.png"
+        },
+        "35" : {
+            "image" : "../tiled/enx/materials/enx_interloperslopedpanel.png"
+        },
+        "36" : {
+            "image" : "../tiled/enx/materials/enx_interloperstairs.png"
+        },
+        "37" : {
+            "image" : "../tiled/enx/materials/enx_interlopertechtile.png"
+        },
+        "38" : {
+            "image" : "../tiled/enx/materials/enx_interloperwallpanel.png"
+        },
+        "39" : {
+            "image" : "../tiled/enx/materials/enx_irradiatedrock.png"
+        },
+        "40" : {
+            "image" : "../tiled/enx/materials/enx_jaggedice.png"
+        },
+        "41" : {
+            "image" : "../tiled/enx/materials/enx_labpillar.png"
+        },
+        "42" : {
+            "image" : "../tiled/enx/materials/enx_labpipe.png"
+        },
+        "43" : {
+            "image" : "../tiled/enx/materials/enx_labscreen.png"
+        },
+        "44" : {
+            "image" : "../tiled/enx/materials/enx_lichenstone.png"
+        },
+        "45" : {
+            "image" : "../tiled/enx/materials/enx_livingstone.png"
+        },
+        "47" : {
+            "image" : "../tiled/enx/materials/enx_metalbaseboard.png"
+        },
+        "48" : {
+            "image" : "../tiled/enx/materials/enx_metallicslab.png"
+        },
+        "49" : {
+            "image" : "../tiled/enx/materials/enx_metallictrim.png"
+        },
+        "50" : {
+            "image" : "../tiled/enx/materials/enx_metalwalkway.png"
+        },
+        "51" : {
+            "image" : "../tiled/enx/materials/enx_miasmet.png"
+        },
+        "52" : {
+            "image" : "../tiled/enx/materials/enx_mossyrocks.png"
+        },
+        "53" : {
+            "image" : "../tiled/enx/materials/enx_overgrowndirt.png"
+        },
+        "54" : {
+            "image" : "../tiled/enx/materials/enx_overgrownironbars.png"
+        },
+        "55" : {
+            "image" : "../tiled/enx/materials/enx_plasteel.png"
+        },
+        "56" : {
+            "image" : "../tiled/enx/materials/enx_plasteelbeam.png"
+        },
+        "57" : {
+            "image" : "../tiled/enx/materials/enx_plasteelfence.png"
+        },
+        "58" : {
+            "image" : "../tiled/enx/materials/enx_plasteeltechpanel.png"
+        },
+        "59" : {
+            "image" : "../tiled/enx/materials/enx_primitivesupport.png"
+        },
+        "60" : {
+            "image" : "../tiled/enx/materials/enx_protogravel.png"
+        },
+        "61" : {
+            "image" : "../tiled/enx/materials/enx_protoshale.png"
+        },
+        "62" : {
+            "image" : "../tiled/enx/materials/enx_protosoil.png"
+        },
+        "63" : {
+            "image" : "../tiled/enx/materials/enx_protostone.png"
+        },
+        "64" : {
+            "image" : "../tiled/enx/materials/enx_rostone.png"
+        },
+        "65" : {
+            "image" : "../tiled/enx/materials/enx_roughslatestone.png"
+        },
+        "66" : {
+            "image" : "../tiled/enx/materials/enx_sandpillar.png"
+        },
+        "67" : {
+            "image" : "../tiled/enx/materials/enx_slimysoil.png"
+        },
+        "68" : {
+            "image" : "../tiled/enx/materials/enx_slopedplasteelhull.png"
+        },
+        "69" : {
+            "image" : "../tiled/enx/materials/enx_smoothbridgeblock.png"
+        },
+        "70" : {
+            "image" : "../tiled/enx/materials/enx_spongeymushroom.png"
+        },
+        "71" : {
+            "image" : "../tiled/enx/materials/enx_stainedglass.png"
+        },
+        "72" : {
+            "image" : "../tiled/enx/materials/enx_steelgrain.png"
+        },
+        "73" : {
+            "image" : "../tiled/enx/materials/enx_stripedwallpanel.png"
+        },
+        "74" : {
+            "image" : "../tiled/enx/materials/enx_sulphuricdirt.png"
+        },
+        "75" : {
+            "image" : "../tiled/enx/materials/enx_sulphuricstone.png"
+        },
+        "76" : {
+            "image" : "../tiled/enx/materials/enx_swampdirt.png"
+        },
+        "77" : {
+            "image" : "../tiled/enx/materials/enx_telebriumblock.png"
+        },
+        "78" : {
+            "image" : "../tiled/enx/materials/enx_telebriumpanel.png"
+        },
+        "79" : {
+            "image" : "../tiled/enx/materials/enx_telebriumpillar.png"
+        },
+        "80" : {
+            "image" : "../tiled/enx/materials/enx_titaniumwall.png"
+        },
+        "81" : {
+            "image" : "../tiled/enx/materials/enx_umbraldirt.png"
+        },
+        "82" : {
+            "image" : "../tiled/enx/materials/enx_volcanicrock.png"
+        },
+        "83" : {
+            "image" : "../tiled/enx/materials/enx_warts.png"
+        },
+        "84" : {
+            "image" : "../tiled/enx/materials/enx_wastestone.png"
+        },
+        "85" : {
+            "image" : "../tiled/enx/materials/enx_weatheredtimber.png"
+        },
+        "86" : {
+            "image" : "../tiled/enx/materials/enx_wickerstairs.png"
+        },
+        "87" : {
+            "image" : "../tiled/enx/materials/enx_wiredsupport.png"
+        }
+    }
+}

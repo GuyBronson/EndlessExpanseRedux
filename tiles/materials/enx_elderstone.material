@@ -1,0 +1,22 @@
+{
+  "materialId" : 7195,
+  "materialName" : "enx_elderstone",
+  "particleColor" : [36, 160, 36, 205],
+  "itemDrop" : "enx_elderstone",
+  "description" : "This is most... Unusual.",
+  "shortdescription" : "Elder Stone",
+  "footstepSound" : "/sfx/blocks/footstep_stone3.ogg",
+  "health" : 35,
+  "category": "materials",
+  "renderTemplate" :  "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "enx_elderstone.png",
+    "variants" : 5,
+    "lightTransparent" : true,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 0,
+        "radiantLight" : [0, 32, 0]
+  }
+}
+

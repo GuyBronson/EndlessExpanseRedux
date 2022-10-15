@@ -1,0 +1,11 @@
+{
+    "itemName": "enx_warts",
+    "category": "block",
+    "rarity": "Common",
+    "inventoryIcon": "enx_warts.png",
+    "description": "A chunk of purple warts, seemingly growing out of itself.\n^green;Extractable^reset;.",
+    "shortdescription": "Warts.",
+    "glitchDescription": "Disgust. A chunk of slimy warts.",
+    "floranDescription": "Slimy wartsss.",
+    "materialId": 7263
+}

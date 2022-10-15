@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_overgrowndirt",
+    "category": "block",
+    "rarity": "Common",
+    "inventoryIcon": "enx_overgrowndirt.png",
+    "shortdescription": "Overgrown Dirt",
+    "description": "The dirt itself is rich with nutrients.\n^green;Extractable^reset;.",
+    "materialId": 7230
+}

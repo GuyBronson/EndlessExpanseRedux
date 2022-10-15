@@ -1,0 +1,20 @@
+{
+  "materialId" : 7226,
+  "materialName" : "enx_metallictrim",
+  "particleColor" : [82, 82, 82, 200],
+  "itemDrop" : "enx_metallictrim",
+  "description" : "Metallic Trim",
+  "shortdescription" : "Metal trim usually used for industrial ships.",
+  "footstepSound" : "/sfx/blocks/footstep_metallic.ogg",
+  "health" : 15,
+  "category": "materials",
+  "renderTemplate" : "/tiles/girdertemplate.config",
+  "renderParameters" : {
+    "texture" : "enx_metallictrim.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 999
+  }
+}

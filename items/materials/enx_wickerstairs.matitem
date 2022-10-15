@@ -1,0 +1,10 @@
+{
+  "itemName" : "enx_wickerstairs",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "enx_wickerstairs.png",
+  "shortdescription" : "Wicker Stairs",
+  "description" : "Primitive, but sursprisingly solid.",
+  "materialId" : 7266
+}

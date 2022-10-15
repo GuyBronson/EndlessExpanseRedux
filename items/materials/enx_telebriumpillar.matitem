@@ -1,0 +1,10 @@
+{
+  "itemName" : "enx_telebriumpillar",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "enx_telebriumpillar.png",
+  "description" : "A fancy pillar fashioned from telebrium.",
+  "shortdescription" : "Telebrium Pillar",
+  "materialId" : 7259
+}

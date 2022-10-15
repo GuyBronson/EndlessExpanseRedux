@@ -1,0 +1,9 @@
+{
+  "itemName": "enx_spongeymushroom",
+  "category": "block",
+  "rarity": "Common",
+  "inventoryIcon": "enx_spongeymushroom.png",
+  "description": "Soft, pliable fungus.\n^green;Extractable^reset;.",
+  "shortdescription": "Spongey Mushroom",
+  "materialId": 7250
+}

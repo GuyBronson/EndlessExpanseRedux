@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_protogravel",
+    "category": "block",
+    "rarity": "Common",
+    "inventoryIcon": "enx_protogravel.png",
+    "shortdescription": "Proto Gravel",
+    "description": "Strange, pulsating granules of... Something, swirl within this gravel.\n^green;Extractable^reset;, ^orange;Siftable^reset;.",
+    "materialId": 7240
+}

@@ -1,0 +1,20 @@
+{
+  "materialId" : 7204,
+  "materialName" : "enx_interloperfloor",
+  "particleColor" : [60, 60, 60, 255],
+  "itemDrop" : "enx_interloperfloor",
+    "description": "Probably one of the most advanced floorings out there.",
+  "shortdescription" : "Interloper Floor",
+  "footstepSound" : "/sfx/blocks/footstep_girder.ogg",
+  "health" : 32,
+  "category": "materials",
+  "renderTemplate" : "/tiles/fuclassicnopaint.config",
+  "renderParameters" : {
+    "texture" : "enx_interloperfloor.png",
+    "variants" : 10,
+    "lightTransparent" : false,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}

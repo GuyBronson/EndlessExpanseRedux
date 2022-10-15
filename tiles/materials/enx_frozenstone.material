@@ -1,0 +1,21 @@
+{
+  "materialId" : 7198,
+  "materialName" : "enx_frozenstone",
+  "particleColor" : [209, 223, 237, 255],
+  "itemDrop" : "enx_frozenstone",
+  "description" : "This stone is fully coated in a layer of ice.",
+  "shortdescription" : "Frozen Stone",
+  "footstepSound" : "/sfx/blocks/footstep_stone2.ogg",
+  "health" : 7,
+  "category": "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "enx_frozenstone.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}

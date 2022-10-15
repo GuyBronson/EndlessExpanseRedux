@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_interlopergirder",
+    "category": "block",
+    "rarity": "rare",
+    "inventoryIcon": "enx_interlopergirder.png",
+    "description": "A strong, ancient girder.\n^green;Extractable^reset;.",
+    "shortdescription": "Interloper Girder",
+    "materialId": 7205
+}

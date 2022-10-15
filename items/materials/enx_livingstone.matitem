@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_livingstone",
+    "category": "block",
+    "rarity": "Common",
+    "inventoryIcon": "enx_livingstone.png",
+    "shortdescription": "Living Stone",
+    "description": "This stone chunk is strange, like it's... Alive.\n^green;Extractable^reset;, ^orange;Crushable^reset;.",
+    "materialId": 7223
+}

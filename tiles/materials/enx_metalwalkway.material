@@ -1,0 +1,20 @@
+{
+  "materialId" : 7227,
+  "materialName" : "enx_metalwalkway",
+  "particleColor" : [111, 98, 90, 255],
+  "itemDrop" : "enx_metalwalkway",
+  "description" : "A high-quality industrial walkway.",
+  "shortdescription" : "Metal Walkway",
+  "footstepSound" : "/sfx/blocks/footstep_girder.ogg",
+  "health" : 4,
+  "category": "materials",
+  "renderTemplate" : "/tiles/fuclassicnopaint.config",
+  "renderParameters" : {
+    "texture" : "enx_metalwalkway.png",
+	  "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : false,
+    "zLevel" : 1500
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_bloodstone",
+    "category": "block",
+    "rarity": "Common",
+    "inventoryIcon": "enx_bloodstone.png",
+    "description": "Blood-coloured stone with uncomfortably organic shapes.\n^green;Extractable^reset;.",
+    "shortdescription": "Blood Stone",
+    "materialId": 7180
+}

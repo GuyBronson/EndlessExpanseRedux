@@ -1,0 +1,20 @@
+{
+  "materialId" : 7189,
+  "materialName" : "enx_darkstone",
+  "particleColor" : [111, 98, 90, 255],
+  "itemDrop" : "enx_darkstone",
+  "shortdescription" : "Darkstone",
+  "description" : "A solid stone made of darkness.",
+  "footstepSound" : "/sfx/blocks/footstep_stone2.ogg",
+  "health" : 4,
+  "category": "materials",
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "enx_darkstone.png",
+	  "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}

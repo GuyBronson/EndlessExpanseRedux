@@ -1,0 +1,20 @@
+{
+  "materialId" : 7192,
+  "materialName" : "enx_durablesupport",
+  "particleColor" : [111, 98, 90, 255],
+  "itemDrop" : "enx_durablesupport",
+  "description" : "Can withstand any weather that isn't a meteor shower.",
+  "shortdescription" : "Durable Support",
+  "footstepSound" : "/sfx/blocks/footstep_girder.ogg",
+  "health" : 4,
+  "category": "materials",
+  "renderTemplate" : "/tiles/fuclassicnopaint.config",
+  "renderParameters" : {
+    "texture" : "enx_durablesupport.png",
+	  "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : false,
+    "zLevel" : 1500
+  }
+}

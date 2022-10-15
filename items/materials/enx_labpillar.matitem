@@ -1,0 +1,9 @@
+{
+  "itemName" : "enx_labpillar",
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "enx_labpillar.png",
+  "description" : "A load-bearing lab pillar.",
+  "shortdescription" : "Lab Pillar",
+  "materialId" : 7219
+}

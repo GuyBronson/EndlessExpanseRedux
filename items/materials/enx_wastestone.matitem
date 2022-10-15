@@ -1,0 +1,11 @@
+{
+    "itemName": "enx_wastestone",
+    "category": "block",
+    "rarity": "Common",
+    "inventoryIcon": "enx_wastestone.png",
+    "description": "Tough wastestone.\n^green;Extractable^reset;, ^orange;Crushable^reset;.",
+    "shortdescription": "Wastestone",
+    "glitchDescription": "Statement. Wastestone.",
+    "floranDescription": "Wastessstone.",
+    "materialId": 7264
+}

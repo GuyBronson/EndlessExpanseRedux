@@ -1,0 +1,21 @@
+{
+  "materialId" : 7199,
+  "materialName" : "enx_fungalstone",
+  "particleColor" : [124, 167, 105, 225],
+  "itemDrop" : "enx_fungalstone",
+  "description" : "Stone covered in fungal spores.",
+  "shortdescription" : "Fungal Stone",
+  "footstepSound" : "/sfx/blocks/footstep_stone.ogg",
+  "health" : 8,
+  "category": "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "enx_fungalstone.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true
+  }
+}
+

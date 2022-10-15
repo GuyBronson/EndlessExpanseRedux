@@ -1,0 +1,21 @@
+{
+  "materialId" : 7223,
+  "materialName" : "enx_livingstone",
+  "particleColor" : [160, 127, 224, 255],
+  "itemDrop" : "enx_livingstone",
+  "shortdescription" : "Living Stone",
+  "description" : "Did that stone just... move on its own?",
+  "footstepSound" : "/sfx/blocks/footstep_brains.ogg",
+  "health" : 5.5,
+  "soil" : true,
+  "category": "materials",
+  "renderTemplate" : "/tiles/fuclassicnopaint.config",
+  "renderParameters" : {
+    "texture" : "enx_livingstone.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}

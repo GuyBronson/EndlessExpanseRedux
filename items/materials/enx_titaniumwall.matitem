@@ -1,0 +1,9 @@
+{
+  "itemName" : "enx_titaniumwall",
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "enx_titaniumwall.png",
+  "description" : "A wall made of sturdy titaium.",
+  "shortdescription" : "Titanium Wall",
+  "materialId" : 7260
+}

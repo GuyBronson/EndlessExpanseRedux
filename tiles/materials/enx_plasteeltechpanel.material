@@ -1,0 +1,21 @@
+{
+  "materialId" : 7238,
+  "materialName" : "enx_plasteeltechpanel",
+  "particleColor" : [112, 112, 112, 255],
+  "itemDrop" : "enx_plasteeltechpanel",
+  "description" : "Looks tech-y enough to fit into a lab.",
+  "shortdescription" : "Plasteel Tech Panel",
+  "footstepSound" : "/sfx/blocks/footstep_metallic.ogg",
+  "health" : 3,
+  "category": "materials",
+  "renderTemplate" : "/tiles/fuclassicnopaint.config",
+  "renderParameters" : {
+    "texture" : "enx_plasteeltechpanel.png",
+    "variants" : 6,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}
+

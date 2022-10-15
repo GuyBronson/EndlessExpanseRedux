@@ -1,0 +1,10 @@
+{
+  "itemName" : "enx_labscreen",
+  "category" : "block",
+  "rarity" : "Common",
+  "price" : 10,
+  "inventoryIcon" : "enx_labscreen.png",
+  "description" : "A touch-screen interface.",
+  "shortdescription" : "Lab Screen",
+  "materialId" : 7221
+}

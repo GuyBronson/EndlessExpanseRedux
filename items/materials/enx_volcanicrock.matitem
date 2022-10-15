@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_volcanicrock",
+    "category": "block",
+    "rarity": "Common",
+    "inventoryIcon": "enx_volcanicrock.png",
+    "shortdescription": "Volcanic Rock",
+    "description": "Surprisingly cold, for a volcanic rock.\n^green;Extractable^reset;, ^orange;Crushable^reset;.",
+    "materialId": 7262
+}

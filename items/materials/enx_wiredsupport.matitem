@@ -1,0 +1,10 @@
+{
+  "itemName" : "enx_wiredsupport",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "enx_wiredsupport.png",
+  "shortdescription" : "Wired Support",
+  "description" : "Support beams laced with high-grade wiring.",
+  "materialId" : 7267
+}

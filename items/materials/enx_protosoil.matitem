@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_protosoil",
+    "category": "block",
+    "rarity": "Common",
+    "inventoryIcon": "enx_protosoil.png",
+    "shortdescription": "Proto Soil",
+    "description": "Fertile soil that is also somewhat wildly mutagenic.\n^green;Extractable^reset;, ^orange;Siftable^reset;.",
+    "materialId": 7242
+}

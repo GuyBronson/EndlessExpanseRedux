@@ -1,0 +1,23 @@
+{
+  "materialId" : 7240,
+  "materialName" : "enx_protogravel",
+  "frames" : ".png",
+  "particleColor" : [104, 0, 104, 255],
+  "itemDrop" : "enx_protogravel",
+  "description" : "Strange, pulsating granules of... Something, swirl within this gravel.",
+  "shortdescription" : "Proto Gravel",
+  "footstepSound" : "/sfx/blocks/footstep_gravel.ogg",
+  "falling" : true,
+  "cascading" : true,
+  "health" : 1.5,
+  "category": "materials",
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "enx_protogravel.png",
+    "variants" : 3,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 3
+  }
+}

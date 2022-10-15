@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_bloodcrystal",
+    "category": "block",
+    "rarity": "Common",
+    "inventoryIcon": "enx_bloodcrystal.png",
+    "shortdescription": "Blood Crystal",
+    "description": "Gruesome crystals, imbued with quietus essence.\n^green;Extractable^reset;.",
+    "materialId": 7179
+}

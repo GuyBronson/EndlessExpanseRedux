@@ -1,0 +1,21 @@
+{
+  "materialId" : 7220,
+  "materialName" : "enx_labpipe",
+  "particleColor" : [194, 194, 194, 255],
+  "itemDrop" : "enx_labpipe",
+  "shortdescription" : "Lab Pipe",
+  "description" : "A heavy-duty pipe used for transporting fluids, gases and anything else that can fit!",
+  "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
+  "drawBackground" : true,
+  "health" : 8,
+  "category" : "materials",
+  "renderTemplate" : "/tiles/pipetemplate.config",
+  "renderParameters" : {
+    "texture" : "enx_labpipe.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : false,
+    "multiColored" : false,
+    "zLevel" : 3360
+  }
+}

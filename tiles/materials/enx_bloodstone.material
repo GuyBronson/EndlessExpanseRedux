@@ -1,0 +1,22 @@
+{
+  "materialId" : 7180,
+  "materialName" : "enx_bloodstone",
+  "particleColor" : [220, 25, 25, 255],
+  "itemDrop" : "enx_bloodstone",
+  "description" : "Blood-coloured stone with uncomfortably organic shapes.",
+  "shortdescription" : "Blood Stone",
+  "footstepSound" : "/sfx/blocks/footstep_rock.ogg",
+  "health" : 18,
+  "soil" : false,
+  "damageTable" : "/tiles/flammableDamage.config",
+  "category": "materials",
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "enx_bloodstone.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}

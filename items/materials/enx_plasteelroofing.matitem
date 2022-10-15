@@ -1,0 +1,9 @@
+{
+  "itemName" : "enx_plasteelroofing",
+  "category" : "block",
+  "rarity" : "rare",
+  "inventoryIcon" : "enx_plasteelroofing.png",
+  "description" : "Roofing made of durable plasteel.",
+  "shortdescription" : "Plasteel Roofing",
+  "materialId" : 7236
+}

@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_lichenstone",
+    "category": "block",
+    "rarity": "Common",
+    "inventoryIcon": "enx_lichenstone.png",
+    "description": "A whole bunch of lichen have made this stone their home.\n^green;Extractable^reset;, ^orange;Crushable^reset;.",
+    "shortdescription": "Lichen Stone",
+    "materialId": 7222
+}

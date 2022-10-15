@@ -1,0 +1,14 @@
+{
+  "itemName": "enx_glowingspongeyshroom",
+  "category": "block",
+  "rarity": "Common",
+  "inventoryIcon": "enx_glowingspongeyshroom.png",
+  "description": "A block made of soft, glowing fungus.\n^green;Extractable^reset;.",
+  "shortdescription": "Glowing Spongey Shroom",
+  "radiantLight": [
+    0.0,
+    0.5,
+    0.0
+  ],
+  "materialId": 7201
+}

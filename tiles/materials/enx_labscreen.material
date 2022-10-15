@@ -1,0 +1,21 @@
+{
+  "materialId" : 7221,
+  "materialName" : "enx_labscreen",
+  "particleColor" : [135, 135, 135, 255],
+  "itemDrop" : "enx_labscreen",
+  "description" : "A touch-screen interface.",
+  "shortdescription" : "Lab Screen",
+  "footstepSound" : "/sfx/blocks/footstep_composite.ogg",
+  "health" : 10,
+  "category": "materials",
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "enx_labscreen.png",
+    "variants" : 25,
+    "lightTransparent" : false,
+    "multiColored" : true,
+    "occludesBelow" : true,
+    "zLevel" : 2690,
+    "radiantLight" : [93, 181, 255]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "materialId" : 7185,
+  "materialName" : "enx_chromaticdirt",
+  "particleColor" : [92, 145, 86, 255],
+  "itemDrop" : "enx_chromaticdirt",
+  "description" : "Pure, untarnished soil.",
+  "shortdescription" : "Chromatic Dirt",
+  "footstepSound" : "/sfx/blocks/footstep_dirt.ogg",
+  "tillableMod" : 31,
+  "soil" : true,
+  "health" : 2,
+  "category": "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "enx_chromaticdirt.png",
+    "variants" : 15,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 0,
+     "radiantLight" : [100, 100, 100]
+  }
+}

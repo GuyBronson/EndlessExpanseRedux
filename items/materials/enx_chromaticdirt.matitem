@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_chromaticdirt",
+    "category": "block",
+    "rarity": "Common",
+    "inventoryIcon": "enx_chromaticdirt.png",
+    "description": "Pure, unblemished soil.\n^green;Extractable^reset;, ^orange;Siftable^reset;.",
+    "shortdescription": "Chromatic Dirt",
+    "materialId": 7185
+}

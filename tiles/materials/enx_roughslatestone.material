@@ -1,0 +1,20 @@
+{
+  "materialId" : 7245,
+  "materialName" : "enx_roughslatestone",
+  "particleColor" : [80, 80, 80, 255],
+  "itemDrop" : "enx_roughslatestone",
+  "shortdescription" : "Rough Slate Stone",
+  "description" : "The surface of this stone is particularly rough.",
+  "footstepSound" : "/sfx/blocks/footstep_stone3.ogg",
+  "health" : 6,
+  "category": "materials",
+  "renderTemplate" : "/tiles/fuclassicnopaint.config",
+  "renderParameters" : {
+    "texture" : "enx_roughslatestone.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "multiColored" : true,
+    "occludesBelow" : true,
+    "zLevel" : 1640
+  }
+}

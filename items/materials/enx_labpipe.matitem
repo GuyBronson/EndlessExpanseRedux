@@ -1,0 +1,9 @@
+{
+  "itemName" : "enx_labpipe",
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "enx_labpipe.png",
+  "description" : "Pipes for transporting all sorts of volatile elements.",
+  "shortdescription" : "Lab Pipe",
+  "materialId" : 7220
+}

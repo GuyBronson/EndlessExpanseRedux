@@ -1,0 +1,23 @@
+{
+  "materialId" : 7181,
+  "materialName" : "enx_bonemeal",
+  "particleColor" : [212, 205, 174, 205],
+  "itemDrop" : "bonemealmaterial",
+  "description" : "A pile of powder that once was a larger pile of bones.",
+  "shortdescription" : "Bone Meal",
+  "footstepSound" : "/sfx/blocks/footstep_bone.ogg",
+  "tillableMod" : 31,
+  "soil" : true,
+  "health" : 7,
+  "category": "materials",
+
+  "renderTemplate" : "/tiles/fuclassicnopaint.config",
+  "renderParameters" : {
+    "texture" : "enx_bonemeal.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_eldersoil",
+    "category": "block",
+    "rarity": "Common",
+    "inventoryIcon": "enx_eldersoil.png",
+    "description": "This soil is just all wrong.\n^green;Extractable^reset;.",
+    "shortdescription": "Elder Soil",
+    "materialId": 7194
+}

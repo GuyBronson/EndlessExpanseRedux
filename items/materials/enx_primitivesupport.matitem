@@ -1,0 +1,11 @@
+{
+  "itemName" : "enx_primitivesupport",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "enx_primitivesupport.png",
+  "shortdescription" : "Primitive Support",
+  "description" : "A basic set of wooden support beams.",
+  "materialId" : 7239
+
+}

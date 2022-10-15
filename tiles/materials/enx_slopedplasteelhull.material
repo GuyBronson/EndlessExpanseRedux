@@ -1,0 +1,20 @@
+{
+  "materialId" : 7248,
+  "materialName" : "enx_slopedplasteelhull",
+  "particleColor" : [124, 122, 120, 180],
+  "itemDrop" : "enx_slopedplasteelhull",
+  "description" : "Smooth metal and plasteel acting as a hull panel.",
+  "shortdescription" : "Sloped Plasteel Hull",
+  "footstepSound" : "/sfx/blocks/footstep_composite.ogg",
+  "health" : 2,
+  "category" : "materials",
+  "renderTemplate" : "/tiles/slopedmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "enx_slopedplasteelhull.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : false,
+    "zLevel" : 0
+  }
+}

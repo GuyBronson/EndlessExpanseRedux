@@ -1,0 +1,20 @@
+{
+  "materialId" : 7254,
+  "materialName" : "enx_sulphuricdirt",
+  "particleColor" : [109, 78, 52, 255],
+  "itemDrop" : "enx_sulphuricdirt",
+  "description" : "Dirt, rich with toxic sulphur.",
+  "shortdescription" : "Sulphuric Dirt",
+  "footstepSound" : "/sfx/blocks/footstep_stone2.ogg",
+  "health" : 7,
+  "category": "materials",
+  "renderTemplate" : "/tiles/fuclassicnopaint.config",
+  "renderParameters" : {
+    "texture" : "enx_sulphuricdirt.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}

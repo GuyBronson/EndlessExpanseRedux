@@ -1,0 +1,22 @@
+{
+  "materialId" : 7230,
+  "materialName" : "enx_overgrowndirt",
+  "particleColor" : [92, 145, 86, 255],
+  "itemDrop" : "enx_overgrowndirt",
+  "description" : "Nutrient-rich dirt, covered in healthy plants.",
+  "shortdescription" : "Overgrown Dirt",
+  "footstepSound" : "/sfx/blocks/footstep_dirt.ogg",
+  "tillableMod" : 31,
+  "soil" : true,
+  "health" : 2,
+  "category": "materials",
+  "renderTemplate" : "/tiles/fuclassicnopaint.config",
+  "renderParameters" : {
+    "texture" : "enx_overgrowndirt.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}

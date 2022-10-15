@@ -1,0 +1,20 @@
+{
+  "materialId" : 7266,
+  "materialName" : "enx_wickerstairs",
+  "particleColor" : [110, 110, 110, 255],
+  "itemDrop" : "enx_wickerstairs",
+  "description" : "This platform can withstand more weight than it seems.",
+  "shortdescription" : "Wicker Stairs",
+  "collisionKind" : "platform",
+  "footstepSound" : "/sfx/blocks/footstep_composite.ogg",
+  "category" : "Supports",
+  "renderTemplate" : "/tiles/platformtemplate.config",
+  "renderParameters" : {
+    "texture" : "enx_wickerstairs.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : false,
+    "zLevel" : 0
+  }
+}

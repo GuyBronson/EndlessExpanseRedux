@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_eldertemplebricks",
+    "category": "block",
+    "rarity": "Common",
+    "inventoryIcon": "enx_eldertemplebricks.png",
+    "description": "These stones don't look to be natural or artificial.\n^green;Extractable^reset;.",
+    "shortdescription": "Elder Temple Bricks",
+    "materialId": 7196
+}
