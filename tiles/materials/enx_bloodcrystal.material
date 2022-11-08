@@ -1,0 +1,21 @@
+{
+  "materialId" : 7179,
+  "materialName" : "enx_bloodcrystal",
+  "particleColor" : [220, 25, 25, 255],
+  "itemDrop" : "enx_bloodcrystal",
+  "description" : "Gruesome crystals, imbued with quietus essence.",
+  "shortdescription" : "Blood Crystal",
+  "footstepSound" : "/sfx/blocks/footstep_stone2.ogg",
+  "health" : 15,
+  "soil" : true,
+  "category": "materials",
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "enx_bloodcrystal.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}

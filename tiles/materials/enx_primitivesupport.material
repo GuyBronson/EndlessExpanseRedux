@@ -1,0 +1,22 @@
+{
+  "materialId" : 7239,
+  "materialName" : "enx_primitivesupport",
+  "frames" : "enx_primitivesupport.png",
+  "particleColor" : [110, 110, 110, 255],
+  "variants" : 1,
+  "itemDrop" : "enx_primitivesupport",
+  "description" : "A basic set of wooden support beams.",
+  "shortdescription" : "Fenerox Support",
+  "footstepSound" : "/sfx/blocks/footstep_wood.ogg",
+  "health" : 8,
+  "category" : "materials",
+  "renderTemplate" : "/tiles/girdertemplate.config",
+  "renderParameters" : {
+    "texture" : "enx_primitivesupport.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 3340
+  }
+}

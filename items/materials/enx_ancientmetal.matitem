@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_ancientmetal",
+    "category": "block",
+    "rarity": "Common",
+    "inventoryIcon": "enx_ancientmetal.png",
+    "description": "Rusted, solid metal.\n^green;Extractable^reset;.",
+    "shortdescription": "Ancient Metal",
+    "materialId": 7177
+}

@@ -1,0 +1,20 @@
+{
+  "materialId" : 7257,
+  "materialName" : "enx_telebriumblock",
+  "particleColor" : [45, 87, 66, 255],
+  "itemDrop" : "enx_telebriumblock",
+  "shortdescription" : "Telebrium Block",
+  "description" : "Solid telebrium in a basic block form.",
+  "footstepSound" : "/sfx/blocks/footstep_composite.ogg",
+  "health" : 10,
+  "category" : "materials",
+  "renderTemplate" : "/tiles/fuclassicnopaint.config",
+  "renderParameters" : {
+    "texture" : "enx_telebriumblock.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : false,
+    "zLevel" : 3000
+  }
+}

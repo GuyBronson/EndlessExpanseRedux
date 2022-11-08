@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_steelgrain",
+    "category": "block",
+    "rarity": "Common",
+    "inventoryIcon": "enx_steelgrain.png",
+    "description": "Fine flakes of metal.\n^green;Extractable^reset;, ^orange;Siftable^reset;.",
+    "shortdescription": "Steel Grain",
+    "materialId": 7252
+}

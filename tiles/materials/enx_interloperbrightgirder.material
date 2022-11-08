@@ -1,0 +1,23 @@
+{
+  "materialId" : 7202,
+  "materialName" : "enx_interloperbrightgirder",
+  "frames" : "enx_interloperbrightgirder.png",
+  "particleColor" : [60, 60, 60, 255],
+  "variants" : 1,
+  "itemDrop" : "enx_interloperbrightgirder",
+    "description": "Provides light and support for buildings, like a good friend.\n^green;Extractable^reset;.",
+  "shortdescription" : "Interloper Bright Girder",
+  "footstepSound" : "/sfx/blocks/footstep_girder.ogg",
+  "health" : 32,
+  "category": "materials",
+  "renderTemplate" : "/tiles/girdertemplate.config",
+  "renderParameters" : {
+    "texture" : "enx_interloperbrightgirder.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : false,
+    "multiColored" : false,
+    "zLevel" : 100,
+    "radiantLight" : [0, 90, 90]
+  }
+}

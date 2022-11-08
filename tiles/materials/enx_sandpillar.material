@@ -1,0 +1,21 @@
+{
+  "materialId" : 7246,
+  "materialName" : "enx_sandpillar",
+  "particleColor" : [89, 89, 89, 255],
+  "itemDrop" : "enx_sandpillar",
+  "shortdescription" : "Sand Pillar",
+  "description" : "It doesn't crumble as much as you'd expect it to.",
+  "footstepSound" : "/sfx/blocks/footstep_composite.ogg",
+  "drawBackground" : true,
+  "health" : 3,
+  "category" : "materials",
+  "renderTemplate" : "/tiles/screwtemplate.config",
+  "renderParameters" : {
+    "texture" : "enx_sandpillar.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : false,
+    "multiColored" : false,
+    "zLevel" : 2771
+  }
+}

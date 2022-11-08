@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_interloperfloor",
+    "category": "block",
+    "rarity": "rare",
+    "inventoryIcon": "enx_interloperfloor.png",
+    "description": "Probably one of the most advanced floorings out there.\n^green;Extractable^reset;.",
+    "shortdescription": "Interloper Floor",
+    "materialId": 7204
+}

@@ -1,0 +1,10 @@
+{
+  "itemName" : "enx_metalwalkway",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "enx_metalwalkway.png",
+  "shortdescription" : "Metal Walkway",
+  "description" : "Simple aesthetic, solid construction.",
+  "materialId" : 7227
+}

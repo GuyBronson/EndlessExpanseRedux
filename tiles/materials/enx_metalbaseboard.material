@@ -1,0 +1,20 @@
+{
+  "materialId" : 7224,
+  "materialName" : "enx_metalbaseboard",
+  "particleColor" : [111, 98, 90, 255],
+  "itemDrop" : "enx_metalbaseboard",
+  "description" : "Smoother and shinier than most wooden baseboards.",
+  "shortdescription" : "Metal Baseboard",
+  "footstepSound" : "/sfx/blocks/footstep_girder.ogg",
+  "health" : 4,
+  "category": "materials",
+  "renderTemplate" : "/tiles/fuclassicnopaint.config",
+  "renderParameters" : {
+    "texture" : "enx_metalbaseboard.png",
+	  "variants" : 6,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : false,
+    "zLevel" : 1500
+  }
+}

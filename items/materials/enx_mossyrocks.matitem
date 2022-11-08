@@ -1,0 +1,10 @@
+{
+    "itemName": "enx_mossyrocks",
+    "category": "block",
+    "rarity": "Common",
+    "price": 0,
+    "inventoryIcon": "enx_mossyrocks.png",
+    "description": "Rocks covered in patches of soft moss.\n^green;Extractable^reset;.",
+    "shortdescription": "Mossy Rocks",
+    "materialId": 7229
+}

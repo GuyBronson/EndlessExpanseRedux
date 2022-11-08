@@ -1,0 +1,10 @@
+{
+  "itemName" : "enx_telebriumpanel",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "enx_telebriumpanel.png",
+  "shortdescription" : "Telebrium Panel",
+  "description" : "Telebrium panelling with a rigid, crystalline surface.",
+  "materialId" : 7258
+}

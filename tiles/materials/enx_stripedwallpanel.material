@@ -1,0 +1,20 @@
+{
+  "materialId" : 7253,
+  "materialName" : "enx_stripedwallpanel",
+  "particleColor" : [111, 98, 90, 255],
+  "itemDrop" : "enx_stripedwallpanel",
+  "description" : "Like a regilar wall panel but with a stripe.",
+  "shortdescription" : "Striped Wall Panel",
+  "footstepSound" : "/sfx/blocks/footstep_girder.ogg",
+  "health" : 4,
+  "category": "materials",
+  "renderTemplate" : "/tiles/fuclassicnopaint.config",
+  "renderParameters" : {
+    "texture" : "enx_stripedwallpanel.png",
+	  "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : false,
+    "zLevel" : 1500
+  }
+}

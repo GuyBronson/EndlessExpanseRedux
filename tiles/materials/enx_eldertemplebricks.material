@@ -1,0 +1,22 @@
+{
+  "materialId" : 7196,
+  "materialName" : "enx_eldertemplebricks",
+  "particleColor" : [138, 155, 113, 255],
+  "itemDrop" : "enx_eldertemplebricks",
+  "description" : "Cozy, in that malign sort of way.",
+  "shortdescription" : "Elder Temple Bricks",
+  "footstepSound" : "/sfx/blocks/footstep_stone3.ogg",
+  "health" : 10,
+  "category": "materials",
+
+  "renderTemplate" : "/tiles/fuclassicnopaint.config",
+  "renderParameters" : {
+    "texture" : "enx_eldertemplebricks.png",
+    "variants" : 18,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}
+

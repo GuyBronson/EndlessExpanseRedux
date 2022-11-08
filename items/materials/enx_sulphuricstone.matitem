@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_sulphuricstone",
+    "category": "block",
+    "rarity": "Common",
+    "inventoryIcon": "enx_sulphuricstone.png",
+    "shortdescription": "Sulphuric Stone",
+    "description": "Best not to crack it open unprepared.\n^green;Extractable^reset;, ^orange;Crushable^reset;.",
+    "materialId": 7255
+}

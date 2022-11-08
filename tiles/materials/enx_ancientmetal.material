@@ -1,0 +1,21 @@
+{
+  "materialId" : 7177,
+  "materialName" : "enx_ancientmetal",
+  "particleColor" : [190, 190, 190, 225],
+  "itemDrop" : "enx_ancientmetal",
+  "description" : "Rusted, solid metal.",
+  "shortdescription" : "Ancient Metal",
+  "footstepSound" : "/sfx/blocks/footstep_stone2.ogg",
+  "health" : 8,
+  "category": "materials",
+
+  "renderTemplate" : "/tiles/fuclassicnopaint.config",
+  "renderParameters" : {
+    "texture" : "enx_ancientmetal.png",
+    "variants" : 10,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true
+  }
+}
+

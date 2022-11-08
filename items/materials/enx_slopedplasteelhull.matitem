@@ -1,0 +1,10 @@
+{
+  "itemName" : "enx_slopedplasteelhull",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "enx_slopedplasteelhull.png",
+  "description" : "Smooth metal and plasteel acting as a hull panel.",
+  "shortdescription" : "Sloped Plasteel Hull",
+  "materialId" : 7248
+}

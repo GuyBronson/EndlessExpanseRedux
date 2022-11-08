@@ -1,0 +1,21 @@
+{
+  "materialId" : 7175,
+  "materialName" : "enx_aliengrass",
+  "particleColor" : [201, 221, 57, 255],
+  "itemDrop" : "enx_aliengrass",
+  "description" : "Unusually scented alien grass",
+  "shortdescription" : "Alien Grass",
+  "footstepSound" : "/sfx/blocks/footstep_tallgrass.ogg",
+  "health" : 0.2,
+  "damageTable" : "/tiles/flammableDamage.config",
+  "category": "materials",
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "enx_aliengrass.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "itemName" : "enx_compressedalloystairs",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "enx_compressedalloystairs.png",
+  "shortdescription" : "Compressed Alloy Stairs",
+  "description" : "An effectively durable set of stairs.",
+  "materialId" : 7186
+}

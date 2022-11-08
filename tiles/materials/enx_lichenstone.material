@@ -1,0 +1,20 @@
+{
+  "materialId" : 7222,
+  "materialName" : "enx_lichenstone",
+  "particleColor" : [92, 114, 84, 225],
+  "itemDrop" : "enx_lichenstone",
+  "description" : "Resilient lichen seem attracted to this particular kind of rock.",
+  "shortdescription" : "Lichen Stone",
+  "footstepSound" : "/sfx/blocks/footstep_stone.ogg",
+  "health" : 4,
+  "category": "materials",
+  "renderTemplate" : "/tiles/fuclassicnopaint.config",
+  "renderParameters" : {
+    "texture" : "enx_lichenstone.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true
+  }
+}
+

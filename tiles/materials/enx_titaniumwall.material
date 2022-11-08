@@ -1,0 +1,20 @@
+{
+  "materialId" : 7260,
+  "materialName" : "enx_titaniumwall",
+  "particleColor" : [111, 98, 90, 255],
+  "itemDrop" : "enx_titaniumwall",
+  "description" : "A wall made of sturdy titaium.",
+  "shortdescription" : "Titanium Wall",
+  "footstepSound" : "/sfx/blocks/footstep_girder.ogg",
+  "health" : 22,
+  "category": "materials",
+  "renderTemplate" : "/tiles/fuclassicnopaint.config",
+  "renderParameters" : {
+    "texture" : "enx_titaniumwall.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 2560
+  }
+}

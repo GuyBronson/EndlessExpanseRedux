@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_protostone",
+    "category": "block",
+    "rarity": "Common",
+    "inventoryIcon": "enx_protostone.png",
+    "shortdescription": "Proto Stone",
+    "description": "Mineral-rich stone, saturated by organic material.\n^green;Extractable^reset;, ^orange;Crushable^reset;.",
+    "materialId": 7243
+}

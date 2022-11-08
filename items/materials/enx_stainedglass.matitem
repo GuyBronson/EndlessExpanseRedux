@@ -1,0 +1,10 @@
+{
+  "itemName" : "enx_stainedglass",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "enx_stainedglass.png",
+  "description" : "Airy, light and beautiful glass.",
+  "shortdescription" : "Stained Glass",
+  "materialId" : 7251
+}

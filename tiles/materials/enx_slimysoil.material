@@ -1,0 +1,23 @@
+{
+  "materialId" : 7247,
+  "materialName" : "enx_slimysoil",
+  "particleColor" : [81, 150, 81, 200],
+  "itemDrop" : "enx_slimysoil",
+  "description" : "Unusually sticky for a patch of soil.",
+  "shortdescription" : "Slimy Soil",
+  "footstepSound" : "/sfx/blocks/footstep_brains.ogg",
+  "health" : 3,
+  "tillableMod" : 31,
+  "soil" : true,
+  "category": "materials",
+  "renderTemplate" : "/tiles/fuclassicnopaint.config",
+  "renderParameters" : {
+    "texture" : "enx_slimysoil.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}
+

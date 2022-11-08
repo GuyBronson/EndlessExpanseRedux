@@ -1,0 +1,10 @@
+{
+  "itemName" : "enx_metallictrim",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "enx_metallictrim.png",
+  "shortdescription" : "Metallic Trim",
+  "description" : "Metal trim, usually used for industrial ships.",
+  "materialId" : 7226
+}

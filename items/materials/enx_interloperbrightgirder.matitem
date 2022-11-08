@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_interloperbrightgirder",
+    "category": "block",
+    "rarity": "rare",
+    "inventoryIcon": "enx_interloperbrightgirder.png",
+    "description": "Provides light and support for buildings, like a good friend.\n^green;Extractable^reset;.",
+    "shortdescription": "Interloper Bright Girder",
+    "materialId": 7202
+}

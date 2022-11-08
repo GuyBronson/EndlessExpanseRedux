@@ -1,0 +1,20 @@
+{
+  "materialId" : 7212,
+  "materialName" : "enx_interloperscreen",
+  "particleColor" : [60, 60, 60, 255],
+  "itemDrop" : "enx_interloperscreen",
+  "description" : "A screen in pristine condition. The symbols are mesmerizing, yet entirely illegible.",
+  "shortdescription" : "Interloper Screen",
+  "footstepSound" : "/sfx/blocks/footstep_girder.ogg",
+  "health" : 32,
+  "category": "materials",
+  "renderTemplate" : "/tiles/fuclassicnopaint.config",
+  "renderParameters" : {
+    "texture" : "enx_interloperscreen.png",
+    "variants" : 10,
+    "lightTransparent" : false,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 605
+  }
+}

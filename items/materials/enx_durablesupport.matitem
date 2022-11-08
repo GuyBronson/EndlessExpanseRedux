@@ -1,0 +1,10 @@
+{
+  "itemName" : "enx_durablesupport",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "enx_durablesupport.png",
+  "description" : "Can withstand any weather that isn't a meteor shower.",
+  "shortdescription" : "Durable Support",
+  "materialId" : 7192
+}

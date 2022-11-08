@@ -1,0 +1,20 @@
+{
+  "materialId" : 7214,
+  "materialName" : "enx_interloperstairs",
+  "collisionKind" : "platform",
+  "itemDrop" : "enx_interloperstairs",
+  "shortdescription" : "Interloper Stairs",
+  "description": "Even techier than escalators.\n^green;Extractable^reset;.",
+  "footstepSound" : "/sfx/blocks/footstep_lightwood.ogg",
+  "category": "supports",
+  "renderTemplate" : "/tiles/platformtemplate.config",
+  "renderParameters" : {
+    "texture" : "enx_interloperstairs.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : false,
+    "zLevel" : 0,
+    "platform" : true
+  }
+}

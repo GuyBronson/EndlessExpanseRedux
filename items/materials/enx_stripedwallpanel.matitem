@@ -1,0 +1,10 @@
+{
+  "itemName" : "enx_stripedwallpanel",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "enx_stripedwallpanel.png",
+  "description" : "Like a regular wall panel, but with a stripe in the middle..",
+  "shortdescription" : "Striped Wall Panel",
+  "materialId" : 7253
+}

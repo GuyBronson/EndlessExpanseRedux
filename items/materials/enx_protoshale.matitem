@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_protoshale",
+    "category": "block",
+    "rarity": "Common",
+    "inventoryIcon": "enx_protoshale.png",
+    "shortdescription": "Proto Shale",
+    "description": "Organic dirt of unusual appearance.\n^green;Extractable^reset;, ^orange;Siftable^reset;, ^orange;Crushable^reset;.",
+    "materialId": 7241
+}

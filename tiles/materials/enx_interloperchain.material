@@ -1,0 +1,20 @@
+{
+  "materialId" : 7203,
+  "materialName" : "enx_interloperchain",
+  "particleColor" : [60, 60, 60, 255],
+  "itemDrop" : "enx_interloperchain",
+  "description" : "A super strong chain with design of unknown origin.",
+  "shortdescription" : "Interloper Chain",
+  "footstepSound" : "/sfx/blocks/footstep_treasure.ogg",
+  "health" : 12,
+  "category" : "materials",
+  "renderTemplate" : "/tiles/fuclassicnopaint.config",
+  "renderParameters" : {
+    "texture" : "enx_interloperchain.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "multiColored" : true,
+    "occludesBelow" : false,
+    "zLevel" : 530
+  }
+}

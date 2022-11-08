@@ -1,0 +1,22 @@
+{
+  "materialId" : 7229,
+  "materialName" : "enx_mossyrocks",
+  "variants" : 5,
+  "particleColor" : [99, 22, 99, 255],
+  "itemDrop" : "enx_mossyrocks",
+  "description" : "Mossy Rocks",
+  "shortdescription" : "Mossy Rocks",
+  "footstepSound" : "/sfx/blocks/footstep_stone2.ogg",
+  "health" : 3,
+  "damageTable" : "/tiles/flammableDamage.config",
+  "category": "materials",
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "enx_mossyrocks.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}

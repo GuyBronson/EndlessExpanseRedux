@@ -1,0 +1,21 @@
+{
+  "materialId" : 7194,
+  "materialName" : "enx_eldersoil",
+  "particleColor" : [138, 155, 113, 255],
+  "itemDrop" : "enx_eldersoil",
+  "description" : "Not that inviting as a farming plot.",
+  "shortdescription" : "Elder Soil",
+  "footstepSound" : "/sfx/blocks/footstep_stone3.ogg",
+  "health" : 20,
+  "category": "materials",
+
+  "renderTemplate" : "/tiles/fuclassicnopaint.config",
+  "renderParameters" : {
+    "texture" : "enx_eldersoil.png",
+    "variants" : 7,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}

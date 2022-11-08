@@ -1,0 +1,21 @@
+{
+  "materialId" : 7231,
+  "materialName" : "enx_overgrownironbars",
+  "particleColor" : [148, 148, 148, 255],
+  "itemDrop" : "enx_overgrownironbars",
+  "description" : "Thick iron bars grown-over with vibrant plants.",
+  "shortdescription" : "Overgrown Iron Bars",
+  "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
+  "health" : 8,
+  "category" : "materials",
+  "blocksLiquidFlow" : false,
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "enx_overgrownironbars.png",
+    "variants" : 10,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 550
+  }
+}

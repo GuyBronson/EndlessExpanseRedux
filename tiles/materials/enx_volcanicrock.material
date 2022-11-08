@@ -1,0 +1,21 @@
+{
+  "materialId" : 7262,
+  "materialName" : "enx_volcanicrock",
+  "particleColor" : [57, 53, 50, 255],
+  "itemDrop" : "enx_volcanicrock",
+  "description" : "Surprisingly cold, for a volcanic rock.",
+  "shortdescription" : "Volcanic Rock",
+  "footstepSound" : "/sfx/blocks/footstep_stone2.ogg",
+  "health" : 15,
+  "category": "materials",
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "enx_volcanicrock.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 0,
+    "radiantLight" : [39, 24, 12]
+  }
+}

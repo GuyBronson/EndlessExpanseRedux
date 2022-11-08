@@ -1,0 +1,21 @@
+{
+  "materialId" : 7219,
+  "materialName" : "enx_labpillar",
+  "particleColor" : [89, 89, 89, 255],
+  "itemDrop" : "enx_labpillar",
+  "shortdescription" : "Lab Pillar",
+  "description" : "A handy, load-bearing pillar for labs.",
+  "footstepSound" : "/sfx/blocks/footstep_composite.ogg",
+  "drawBackground" : true,
+  "health" : 3,
+  "category" : "materials",
+  "renderTemplate" : "/tiles/screwtemplate.config",
+  "renderParameters" : {
+    "texture" : "enx_labpillar.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 2771
+  }
+}

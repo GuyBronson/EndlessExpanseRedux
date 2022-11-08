@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_interloperscreen",
+    "category": "block",
+    "rarity": "rare",
+    "inventoryIcon": "enx_interloperscreen.png",
+	"description" : "A screen in pristine condition. The symbols are mesmerizing, yet entirely illegible.\n^green;Extractable^reset;.",
+    "shortdescription": "Interloper Screen",
+    "materialId": 7212
+}

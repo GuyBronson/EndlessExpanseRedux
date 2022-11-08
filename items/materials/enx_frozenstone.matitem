@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_frozenstone",
+    "category": "block",
+    "rarity": "Common",
+    "inventoryIcon": "enx_frozenstone.png",
+    "shortdescription": "Frozen Stone",
+    "description": "Stone coated in a layer of ice.\n^green;Extractable^reset;, ^orange;Crushable^reset;.",
+    "materialId": 7198
+}

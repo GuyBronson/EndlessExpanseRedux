@@ -1,0 +1,20 @@
+{
+  "materialId" : 7211,
+  "materialName" : "enx_interloperrunetile",
+  "particleColor" : [60, 60, 60, 255],
+  "itemDrop" : "enx_interloperrunetile",
+  "description" : "The translator can't provide a helpful translation of these runes.",
+  "shortdescription" : "Interloper Rune Tile",
+  "footstepSound" : "/sfx/blocks/footstep_girder.ogg",
+  "health" : 32,
+  "category": "materials",
+  "renderTemplate" : "/tiles/fuclassicnopaint.config",
+  "renderParameters" : {
+    "texture" : "enx_interloperrunetile.png",
+    "variants" : 9,
+    "lightTransparent" : false,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}

@@ -1,0 +1,20 @@
+{
+	"materialId" : 7244,
+	"materialName" : "enx_rostone",
+	"particleColor" : [146, 156, 170, 255],
+	"itemDrop" : "enx_rostone",
+	"description" : "Raw, unrefined rostone.",
+	"shortdescription" : "Rostone",
+	"footstepSound" : "/sfx/blocks/footstep_stone.ogg",
+	"health" : 10,
+	"category": "materials",
+	"renderTemplate" : "/tiles/fuclassicnopaint.config",
+	"renderParameters" : {
+		"texture" : "enx_rostone.png",
+		"variants" : 5,
+		"lightTransparent" : false,
+		"multiColored" : true,
+		"occludesBelow" : true,
+		"zLevel" : 0
+	}
+}

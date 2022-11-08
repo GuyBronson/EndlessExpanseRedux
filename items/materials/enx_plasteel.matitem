@@ -1,0 +1,9 @@
+{
+  "itemName" : "enx_plasteel",
+  "category" : "block",
+  "rarity" : "rare",
+  "inventoryIcon" : "enx_plasteel.png",
+  "description" : "Sturdy plasteel. Great for building a lab.",
+  "shortdescription" : "Plasteel",
+  "materialId" : 7232
+}

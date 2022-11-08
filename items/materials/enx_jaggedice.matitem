@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_jaggedice",
+    "category": "block",
+    "rarity": "Common",
+    "inventoryIcon": "enx_jaggedice.png",
+    "shortdescription": "Jagged Ice",
+    "description": "Its surface consists of randomly jagged extrusions.\n^green;Extractable^reset;, ^orange;Crushable^reset;.",
+    "materialId": 7218
+}

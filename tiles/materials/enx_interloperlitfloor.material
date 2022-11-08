@@ -1,0 +1,20 @@
+{
+  "materialId" : 7207,
+  "materialName" : "enx_interloperlitfloor",
+  "particleColor" : [60, 60, 60, 255],
+  "itemDrop" : "enx_interloperlitfloor",
+  "description": "Ancient, glowing flooring, fortunately doesn't come with layers of dust.\n^green;Extractable^reset;.",
+  "shortdescription" : "Interloper Lit Floor",
+  "footstepSound" : "/sfx/blocks/footstep_girder.ogg",
+  "health" : 32,
+  "category": "materials",
+  "renderTemplate" : "/tiles/fuclassicnopaint.config",
+  "renderParameters" : {
+    "texture" : "enx_interloperlitfloor.png",
+    "variants" : 4,
+    "lightTransparent" : false,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}

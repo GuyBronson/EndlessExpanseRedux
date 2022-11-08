@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_interloperslopedpanel",
+    "category": "block",
+    "rarity": "rare",
+    "inventoryIcon": "enx_interloperslopedpanel.png",
+    "description": "Glorious ancient metal, that can be sloped!\n^green;Extractable^reset;.",
+    "shortdescription": "Interloper Sloped Panel",
+    "materialId": 7213
+}

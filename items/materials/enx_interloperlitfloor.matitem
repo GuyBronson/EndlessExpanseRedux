@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_interloperlitfloor",
+    "category": "block",
+    "rarity": "rare",
+    "inventoryIcon": "enx_interloperlitfloor.png",
+    "description": "Ancient, glowing flooring, fortunately doesn't come with layers of dust.\n^green;Extractable^reset;.",
+    "shortdescription": "Interloper Lit Floor",
+    "materialId": 7207
+}

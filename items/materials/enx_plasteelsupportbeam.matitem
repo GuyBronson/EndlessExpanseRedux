@@ -1,0 +1,9 @@
+{
+  "itemName" : "enx_plasteelsupportbeam",
+  "category" : "block",
+  "rarity" : "rare",
+  "inventoryIcon" : "enx_plasteelsupportbeam.png",
+  "description" : "Sturdy enough to bear heavy loads, for sure.",
+  "shortdescription" : "Plasteel Support Beam",
+  "materialId" : 7237
+}

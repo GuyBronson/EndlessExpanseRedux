@@ -1,0 +1,10 @@
+{
+    "itemName": "enx_roughslatestone",
+    "category": "block",
+    "rarity": "Common",
+    "price": 0,
+    "inventoryIcon": "enx_roughslatestone.png",
+    "description": "Rough to the touch.\n^green;Extractable^reset;, ^orange;Crushable^reset;.",
+    "shortdescription": "Rough Slate Stone",
+    "materialId": 7245
+}

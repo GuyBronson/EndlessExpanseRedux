@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_eldercarvedstone",
+    "category": "block",
+    "rarity": "Common",
+    "inventoryIcon": "enx_eldercarvedstone.png",
+    "description": "The structure of this stone seems... Wrong.\n^green;Extractable^reset;.",
+    "shortdescription": "Elder Carved Stone",
+    "materialId": 7193
+}

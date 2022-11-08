@@ -1,0 +1,11 @@
+{
+  "itemName" : "enx_smoothbridgeblock",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "enx_smoothbridgeblock.png",
+  "shortdescription" : "Smooth Bridge Block",
+  "description" : "Suits well as walkways in modern buildings.",
+  "materialId" : 7249
+
+}

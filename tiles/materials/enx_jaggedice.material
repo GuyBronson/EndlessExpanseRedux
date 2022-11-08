@@ -1,0 +1,21 @@
+{
+  "materialId" : 7218,
+  "materialName" : "enx_jaggedice",
+  "particleColor" : [209, 223, 237, 255],
+  "itemDrop" : "enx_jaggedice",
+  "description" : "Its surface consists of randomly jagged extrusions.",
+  "shortdescription" : "Jagged Ice",
+  "footstepSound" : "/sfx/blocks/footstep_stone2.ogg",
+  "health" : 8,
+  "category": "materials",
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "enx_jaggedice.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}
+

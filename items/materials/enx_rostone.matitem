@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_rostone",
+    "category": "block",
+    "rarity": "Common",
+    "inventoryIcon": "enx_rostone.png",
+    "description": "Raw, unrefined rostone.\n^green;Extractable^reset;, ^orange;Crushable^reset;.",
+    "shortdescription": "Rostone",
+    "materialId": 7244
+}

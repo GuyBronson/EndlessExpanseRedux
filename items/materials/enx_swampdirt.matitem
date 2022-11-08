@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_swampdirt",
+    "category": "block",
+    "rarity": "Common",
+    "inventoryIcon": "enx_swampdirt.png",
+    "description": "Icky, slimy dirt.\n^green;Extractable^reset;, ^orange;Siftable^reset;.",
+    "shortdescription": "Swamp Dirt",
+    "materialId": 7256
+}

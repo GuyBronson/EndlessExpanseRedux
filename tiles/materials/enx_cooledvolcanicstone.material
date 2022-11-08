@@ -1,0 +1,23 @@
+{
+  "materialId" : 7187,
+  "materialName" : "enx_cooledvolcanicstone",
+  "particleColor" : [57, 53, 50, 255],
+  "itemDrop" : "enx_cooledvolcanicstone",
+  "description" : "Solid, unyielding stone.",
+  "shortdescription" : "Cooled Volcanic Stone",
+  "footstepSound" : "/sfx/blocks/footstep_stone2.ogg",
+  "tillableMod" : 31,
+  "soil" : true,
+  "health" : 15,
+  "category": "materials",
+
+  "renderTemplate" : "/tiles/fuclassicnopaint.config",
+  "renderParameters" : {
+    "texture" : "enx_cooledvolcanicstone.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}

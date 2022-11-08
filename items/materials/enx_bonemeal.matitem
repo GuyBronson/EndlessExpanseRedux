@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_bonemeal",
+    "category": "block",
+    "rarity": "Common",
+    "inventoryIcon": "enx_bonemeal.png",
+    "description": "A block of bone, gritted down into dust.\n^green;Extractable^reset;, ^orange;Siftable^reset;.",
+    "shortdescription": "Bonemeal",
+    "materialId": 7181
+}

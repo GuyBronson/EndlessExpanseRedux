@@ -1,0 +1,20 @@
+{
+  "materialId" : 7225,
+  "materialName" : "enx_metallicslab",
+  "particleColor" : [82, 82, 82, 200],
+  "itemDrop" : "enx_metallicslab",
+  "description" : "Metallic Slab",
+  "shortdescription" : "Etched metal, made to look like stone slabs.",
+  "footstepSound" : "/sfx/blocks/footstep_metallic.ogg",
+  "health" : 15,
+  "category": "materials",
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "enx_metallicslab.png",
+    "variants" : 3,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}

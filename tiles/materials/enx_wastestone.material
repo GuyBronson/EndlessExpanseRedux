@@ -1,0 +1,21 @@
+{
+  "materialId" : 7264,
+  "materialName" : "enx_wastestone",
+  "particleColor" : [201, 114, 57, 255],
+  "itemDrop" : "enx_wastestone",
+  "description" : "Tough wastestone.",
+  "shortdescription" : "Wastestone",
+  "footstepSound" : "/sfx/blocks/footstep_stone.ogg",
+  "health" : 4,
+  "damageTable" : "/tiles/flammableDamage.config",
+  "category": "materials",
+  "renderTemplate" : "/tiles/fuclassicnopaint.config",
+  "renderParameters" : {
+    "texture" : "enx_wastestone.png",
+    "variants" : 4,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}

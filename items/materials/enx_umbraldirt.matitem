@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_umbraldirt",
+    "category": "block",
+    "rarity": "Common",
+    "inventoryIcon": "enx_umbraldirt.png",
+    "shortdescription": "Umbral Dirt",
+    "description": "This strange dirt absorbs all light.\n^green;Extractable^reset;, ^orange;Siftable^reset;.",
+    "materialId": 7261
+}

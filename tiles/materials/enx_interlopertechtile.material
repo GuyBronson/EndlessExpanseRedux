@@ -1,0 +1,22 @@
+{
+  "materialId" : 7215,
+  "materialName" : "enx_interlopertechtile",
+  "particleColor" : [60, 60, 60, 255],
+  "itemDrop" : "enx_interlopertechtile",
+  "description" : "One can only guess what these blocks of tech are used for.",
+  "shortdescription" : "Interloper Tech Tile",
+  "footstepSound" : "/sfx/blocks/footstep_girder.ogg",
+  "health" : 32,
+  "category": "materials",
+  "renderTemplate" : "/tiles/fuclassicnopaint.config",
+  "renderParameters" : {
+    "texture" : "enx_interlopertechtile.png",
+    "variants" : 31,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}
+
+

@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_aliensoil",
+    "category": "block",
+    "rarity": "Common",
+    "inventoryIcon": "enx_aliensoil.png",
+    "shortdescription": "Alien Soil",
+    "description": "Strange soil with an almost neon glow.\n^green;Extractable^reset;, ^orange;Siftable^reset;.",
+    "materialId": 7176
+}

@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_interloperpillar",
+    "category": "block",
+    "rarity": "rare",
+    "inventoryIcon": "enx_interloperpillar.png",
+    "description": "Some super-sturdy pillar, supporting not-so-sturdy structures, sturdily.\n^green;Extractable^reset;.",
+    "shortdescription": "Interloper Pillar",
+    "materialId": 7209
+}

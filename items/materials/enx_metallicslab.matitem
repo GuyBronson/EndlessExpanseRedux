@@ -1,0 +1,10 @@
+{
+  "itemName" : "enx_metallicslab",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "enx_metallicslab.png",
+  "shortdescription" : "Metallic Slab",
+  "description" : "Etched metal, made to look like a slab of stone.",
+  "materialId" : 7225
+}

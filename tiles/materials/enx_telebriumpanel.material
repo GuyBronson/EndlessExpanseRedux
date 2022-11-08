@@ -1,0 +1,20 @@
+{
+  "materialId" : 7258,
+  "materialName" : "enx_telebriumpanel",
+  "particleColor" : [27, 198, 141, 255],
+  "itemDrop" : "enx_telebriumpanel",
+  "description" : "Telebrium panelling with a rigid, crystalline surface.",
+  "shortdescription" : "Telebrium Tech Panel",
+  "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
+  "health" : 15,
+  "category" : "materials",
+  "renderTemplate" : "/tiles/slopedmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "enx_telebriumpanel.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : false,
+    "zLevel" : 4999
+  }
+}

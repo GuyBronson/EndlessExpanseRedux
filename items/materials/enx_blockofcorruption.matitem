@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_blockofcorruption",
+    "category": "block",
+    "rarity": "Common",
+    "inventoryIcon": "enx_blockofcorruption.png",
+    "description": "All that remains after being contaminated by dark water.\n^green;Extractable^reset;.",
+    "shortdescription": "Block of Corruption",
+    "materialId": 7178
+}

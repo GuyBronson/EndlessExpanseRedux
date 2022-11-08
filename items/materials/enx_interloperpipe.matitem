@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_interloperpipe",
+    "category": "block",
+    "rarity": "legendary",
+    "inventoryIcon": "enx_interloperpipe.png",
+    "description": "Thick, super-dense pipes made of an unknown alloy.\n^green;Extractable^reset;.",
+    "shortdescription": "Interloper Pipe",
+    "materialId": 7210
+}

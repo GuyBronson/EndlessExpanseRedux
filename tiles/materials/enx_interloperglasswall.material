@@ -1,0 +1,20 @@
+{
+  "materialId" : 7206,
+  "materialName" : "enx_interloperglasswall",
+  "particleColor" : [60, 60, 60, 255],
+  "itemDrop" : "enx_interloperglasswall",
+  "description" : "Sturdy, yet malleable glass.",
+  "shortdescription" : "Interloper Glass Wall",
+  "footstepSound" : "/sfx/blocks/footstep_glass.ogg",
+  "health" : 12,
+  "category": "materials",
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "enx_interloperglasswall.png",
+    "variants" : 4,
+    "lightTransparent" : true,
+    "multiColored" : true,
+    "occludesBelow" : false,
+    "zLevel" : 1
+  }
+}

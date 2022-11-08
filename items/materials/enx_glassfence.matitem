@@ -1,0 +1,11 @@
+{
+  "itemName" : "enx_glassfence",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "enx_glassfence.png",
+  "shortdescription" : "Glass Fence",
+  "description" : "Steel and glass give this fence a modern look.",
+  "materialId" : 7200
+
+}

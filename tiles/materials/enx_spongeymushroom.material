@@ -1,0 +1,20 @@
+{
+  "materialId" : 7250,
+  "materialName" : "enx_spongeymushroom",
+  "particleColor" : [217, 217, 173, 255],
+  "itemDrop" : "enx_spongeymushroom",
+  "description" : "Soft, pliable fungus.",
+  "shortdescription" : "Spongey Mushroom",
+  "footstepSound" : "/sfx/blocks/footstep_grass.ogg",
+  "health" : 2,
+  "category" : "materials",
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "enx_spongeymushroom.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "multiColored" : true,
+    "occludesBelow" : true,
+    "zLevel" : 1760
+  }
+}

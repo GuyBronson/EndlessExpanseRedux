@@ -1,0 +1,9 @@
+{
+  "itemName" : "enx_sandpillar",
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "enx_sandpillar.png",
+  "shortdescription" : "Sand Pillar",
+  "description" : "It doesn't crumble as much as you'd expect it to.",
+  "materialId" : 7246
+}

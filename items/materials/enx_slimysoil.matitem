@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_slimysoil",
+    "category": "block",
+    "rarity": "Common",
+    "inventoryIcon": "enx_slimysoil.png",
+    "description": "Unusually sticky for a patch of soil.\n^green;Extractable^reset;.",
+    "shortdescription": "Slimy Soil",
+    "materialId": 7247
+}

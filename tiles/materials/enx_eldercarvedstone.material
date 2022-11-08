@@ -1,0 +1,21 @@
+{
+  "materialId" : 7193,
+  "materialName" : "enx_eldercarvedstone",
+  "particleColor" : [138, 155, 113, 255],
+  "itemDrop" : "enx_eldercarvedstone",
+  "description" : "These stones are adorned with unfamiliar carvings.",
+  "shortdescription" : "Elder Carved Stone",
+  "footstepSound" : "/sfx/blocks/footstep_stone3.ogg",
+  "health" : 2,
+  "category": "materials",
+
+  "renderTemplate" : "/tiles/fuclassicnopaint.config",
+  "renderParameters" : {
+    "texture" : "enx_eldercarvedstone.png",
+    "variants" : 18,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 5
+  }
+}

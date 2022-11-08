@@ -1,0 +1,9 @@
+{
+  "itemName" : "enx_plasteelgirder",
+  "category" : "block",
+  "rarity" : "rare",
+  "inventoryIcon" : "enx_plasteelgirder.png",
+  "description" : "A strong girder made of plasteel.",
+  "shortdescription" : "Plasteel Girder",
+  "materialId" : 7235
+}

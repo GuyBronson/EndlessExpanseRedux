@@ -1,0 +1,9 @@
+{
+  "itemName" : "enx_overgrownironbars",
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "enx_overgrownironbars.png",
+  "description" : "Iron bars grown-over with vibrant plants.",
+  "shortdescription" : "Overgrown Iron Bars",
+  "materialId" : 7231
+}

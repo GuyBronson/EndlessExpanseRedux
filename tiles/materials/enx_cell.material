@@ -1,0 +1,22 @@
+{
+  "materialId" : 7184,
+  "materialName" : "enx_cell",
+  "particleColor" : [255, 255, 255, 180],
+  "itemDrop" : "enx_cell",
+  "description" : "A gigantic cell.",
+  "shortdescription" : "Cell",
+  "footstepSound" : "/sfx/blocks/footstep_stone3.ogg",
+  "health" : 2,
+  "category": "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "enx_cell.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}
+

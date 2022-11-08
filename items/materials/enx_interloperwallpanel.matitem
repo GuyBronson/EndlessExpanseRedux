@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_interloperwallpanel",
+    "category": "block",
+    "rarity": "rare",
+    "inventoryIcon": "enx_interloperwallpanel.png",
+    "description": "Ancient panelling of unknown origin.\n^green;Extractable^reset;.",
+    "shortdescription": "Interloper Wall Panel",
+    "materialId": 7216
+}

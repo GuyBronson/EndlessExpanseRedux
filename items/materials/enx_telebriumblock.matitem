@@ -1,0 +1,10 @@
+{
+  "itemName" : "enx_telebriumblock",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "enx_telebriumblock.png",
+  "shortdescription" : "Telebrium Block",
+  "description" : "Solid telebrium in a basic block form.",
+  "materialId" : 7257
+}

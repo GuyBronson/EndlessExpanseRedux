@@ -1,0 +1,22 @@
+{
+  "materialId" : 7205,
+  "materialName" : "enx_interlopergirder",
+  "frames" : "enx_interlopergirder.png",
+  "particleColor" : [60, 60, 60, 255],
+  "variants" : 1,
+  "itemDrop" : "enx_interlopergirder",
+  "description" : "A strong, ancient girder.",
+  "shortdescription" : "Interloper Girder",
+  "footstepSound" : "/sfx/blocks/footstep_girder.ogg",
+  "health" : 20,
+  "category": "materials",
+  "renderTemplate" : "/tiles/girdertemplate.config",
+  "renderParameters" : {
+    "texture" : "enx_interlopergirder.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : false,
+    "multiColored" : false,
+    "zLevel" : 100
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "materialId" : 7263,
+  "materialName" : "enx_warts",
+  "particleColor" : [164, 81, 196, 255],
+  "itemDrop" : "enx_warts",
+  "description" : "This putrid ground is ripe with warts filled with... Stuff.",
+  "shortdescription" : "Warts",
+  "footstepSound" : "/sfx/blocks/footstep_brains.ogg",
+  "health" : 3.5,
+  "category": "materials",
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "enx_warts.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 20
+  }
+}

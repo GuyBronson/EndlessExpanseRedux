@@ -1,0 +1,21 @@
+{
+  "materialId" : 7261,
+  "materialName" : "enx_umbraldirt",
+  "particleColor" : [127, 85, 154, 255],
+  "itemDrop" : "enx_umbraldirt",
+  "description" : "This strange dirt absorbs all light.",
+  "shortdescription" : "Umbral Dirt",
+  "footstepSound" : "/sfx/blocks/footstep_dirt.ogg",
+  "soil" : true,
+  "health" : 4,
+  "category": "materials",
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "enx_umbraldirt.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}

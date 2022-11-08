@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_elderstone",
+    "category": "block",
+    "rarity": "Common",
+    "inventoryIcon": "enx_elderstone.png",
+    "description": "This sort of rock is more than just alien.\n^orange;Crushable^reset;, ^red;Smeltable^reset;.",
+    "shortdescription": "Elder Stone",
+    "materialId": 7195
+}

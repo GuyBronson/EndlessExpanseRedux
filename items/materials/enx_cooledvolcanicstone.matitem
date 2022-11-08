@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_cooledvolcanicstone",
+    "category": "block",
+    "rarity": "Common",
+    "inventoryIcon": "enx_cooledvolcanicstone.png",
+    "shortdescription": "Cooled Volcanic Stone",
+    "description": "You can touch this without burning your hand.\n^green;Extractable^reset;, ^orange;Crushable^reset;.",
+    "materialId": 7187
+}

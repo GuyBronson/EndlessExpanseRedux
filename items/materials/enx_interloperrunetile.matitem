@@ -1,0 +1,9 @@
+{
+    "itemName": "enx_interloperrunetile",
+    "category": "block",
+    "rarity": "rare",
+    "inventoryIcon": "enx_interloperrunetile.png",
+    "description": "The translator can't provide a helpful translation of these runes.\n^green;Extractable^reset;.",
+    "shortdescription": "Interloper Rune Panel",
+    "materialId": 7211
+}
