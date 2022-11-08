@@ -1,0 +1,1 @@
+{"itemName": "enx_protociteore", "rarity": "uncommon", "price": 130, "category": "craftingOre", "inventoryIcon": "protociteore.png", "description": "A unique element found only on protoworlds.", "shortdescription": "Protocite", "radioMessagesOnPickup": ["pickupProtocite"], "itemTags": ["reagent"]}

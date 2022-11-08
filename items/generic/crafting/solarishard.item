@@ -1,0 +1,1 @@
+{"itemName": "enx_solarishard", "rarity": "Common", "price": 60, "category": "craftingOre", "inventoryIcon": "solarishard.png", "description": "A sparkling yellow crystal shard.", "shortdescription": "Lunari Shard", "radioMessagesOnPickup": ["pickupSolari"], "itemTags": ["reagent"]}

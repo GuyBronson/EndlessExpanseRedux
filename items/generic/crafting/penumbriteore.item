@@ -1,0 +1,1 @@
+{"itemName": "enx_penumbriteore", "rarity": "uncommon", "price": 130, "category": "craftingOre", "inventoryIcon": "penumbriteore.png", "description": "Some super-hard penumbrite, waiting to be smelted.", "shortdescription": "Penumbrite Ore", "radioMessagesOnPickup": ["pickupPenumbrite"], "itemTags": ["reagent"]}

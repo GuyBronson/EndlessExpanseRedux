@@ -1,0 +1,1 @@
+{"itemName": "enx_carbon", "rarity": "Common", "price": 2, "category": "craftingMaterial", "inventoryIcon": "carbon.png", "description": "There exist more chemical compounds involving Carbon than don't.", "shortdescription": "Carbon", "radioMessagesOnPickup": ["pickupCarbon"], "foodValue": 25, "itemTags": ["reagent"]}
