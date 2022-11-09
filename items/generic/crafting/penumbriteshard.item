@@ -1,1 +1,12 @@
-{"itemName": "enx_penumbriteshard", "rarity": "uncommon", "price": 270, "category": "craftingMaterial", "inventoryIcon": "penumbriteshard.png", "description": "A perfectly refined shard of penumbrite, located on Penumbra planets.", "shortdescription": "Penumbrite Shard", "itemTags": ["reagent"]}
+{
+    "itemName": "enx_penumbriteshard",
+    "rarity": "uncommon",
+    "price": 270,
+    "category": "craftingMaterial",
+    "inventoryIcon": "penumbriteshard.png",
+    "description": "A perfectly refined shard of penumbrite, located on Penumbra planets.",
+    "shortdescription": "Penumbrite Shard",
+    "itemTags": [
+        "reagent"
+    ]
+}

@@ -1,1 +1,15 @@
-{"itemName": "enx_calciumnitrate", "rarity": "Common", "price": 17, "category": "craftingMaterial", "inventoryIcon": "calciumnitrate.png", "description": "A compound that could prove useful in fertilizers and other chemical compounds.", "radioMessagesOnPickup": ["pickupCalciumnitrate"], "shortdescription": "Calcium Nitrate", "itemTags": ["reagent"]}
+{
+    "itemName": "enx_calciumnitrate",
+    "rarity": "Common",
+    "price": 17,
+    "category": "craftingMaterial",
+    "inventoryIcon": "calciumnitrate.png",
+    "description": "A compound that could prove useful in fertilizers and other chemical compounds.",
+    "radioMessagesOnPickup": [
+        "pickupCalciumnitrate"
+    ],
+    "shortdescription": "Calcium Nitrate",
+    "itemTags": [
+        "reagent"
+    ]
+}

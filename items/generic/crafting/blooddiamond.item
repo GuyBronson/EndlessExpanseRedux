@@ -1,1 +1,12 @@
-{"itemName": "enx_blooddiamond", "rarity": "rare", "price": 220, "category": "craftingMaterial", "inventoryIcon": "blooddiamond.png", "description": "Purified, extracted bloodstone.", "shortdescription": "Plasmic Crystal", "itemTags": ["reagent"]}
+{
+    "itemName": "enx_blooddiamond",
+    "rarity": "rare",
+    "price": 220,
+    "category": "craftingMaterial",
+    "inventoryIcon": "blooddiamond.png",
+    "description": "Purified, extracted bloodstone.",
+    "shortdescription": "Plasmic Crystal",
+    "itemTags": [
+        "reagent"
+    ]
+}

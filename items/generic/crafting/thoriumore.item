@@ -1,1 +1,16 @@
-{"itemName": "enx_thoriumore", "price": 120, "rarity": "rare", "category": "craftingOre", "inventoryIcon": "thoriumore.png", "description": "Commonly used in weapons development.\n^blue;+^white;4 ^blue;Fuel^reset;", "shortdescription": "Thorium Ore", "radioMessagesOnPickup": ["pickupThorium"], "fuelAmount": 4, "itemTags": ["reagent"]}
+{
+    "itemName": "enx_thoriumore",
+    "price": 120,
+    "rarity": "rare",
+    "category": "craftingOre",
+    "inventoryIcon": "thoriumore.png",
+    "description": "Commonly used in weapons development.\n^blue;+^white;4 ^blue;Fuel^reset;",
+    "shortdescription": "Thorium Ore",
+    "radioMessagesOnPickup": [
+        "pickupThorium"
+    ],
+    "fuelAmount": 4,
+    "itemTags": [
+        "reagent"
+    ]
+}

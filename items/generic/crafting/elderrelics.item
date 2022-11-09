@@ -1,10 +1,13 @@
 {
-  "itemName" : "enx_elderrelics",
-  "price" : 600,
-  "rarity" : "rare",
-  "category" : "craftingMaterial",
-  "inventoryIcon" : "elderrelics.png",
-  "description" : "An assortment of things beyond your comprehension.",
-  "shortdescription" : "^#ffe50e;Elder Relics^reset;",
-  "itemTags" : [ "reagent","artifactElder" ]//,
+    "itemName": "enx_elderrelics",
+    "price": 600,
+    "rarity": "rare",
+    "category": "craftingMaterial",
+    "inventoryIcon": "elderrelics.png",
+    "description": "An assortment of things beyond your comprehension.",
+    "shortdescription": "^#ffe50e;Elder Relics^reset;",
+    "itemTags": [
+        "reagent",
+        "artifactElder"
+    ]
 }

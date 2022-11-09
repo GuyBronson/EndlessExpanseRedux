@@ -1,1 +1,15 @@
-{"itemName": "enx_morphiteore", "rarity": "Legendary", "price": 410, "category": "craftingMaterial", "inventoryIcon": "eridianore.png", "description": "A lab-built custom alloy. Tough but malleable.", "shortdescription": "^#88e25b;Morphite^reset;", "radioMessagesOnPickup": ["pickupMorphite"], "itemTags": ["reagent"]}
+{
+    "itemName": "enx_morphiteore",
+    "rarity": "Legendary",
+    "price": 410,
+    "category": "craftingMaterial",
+    "inventoryIcon": "eridianore.png",
+    "description": "A lab-built custom alloy. Tough but malleable.",
+    "shortdescription": "^#88e25b;Morphite^reset;",
+    "radioMessagesOnPickup": [
+        "pickupMorphite"
+    ],
+    "itemTags": [
+        "reagent"
+    ]
+}

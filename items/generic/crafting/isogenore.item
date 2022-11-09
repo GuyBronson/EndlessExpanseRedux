@@ -1,1 +1,12 @@
-{"itemName": "enx_isogenore", "rarity": "legendary", "price": 410, "category": "craftingOre", "inventoryIcon": "isogenore.png", "description": "This unusual aluminum-heavy compound is the most endothermic metal ever discovered", "shortdescription": "Isogen Ore", "itemTags": ["reagent"]}
+{
+    "itemName": "enx_isogenore",
+    "rarity": "legendary",
+    "price": 410,
+    "category": "craftingOre",
+    "inventoryIcon": "isogenore.png",
+    "description": "This unusual aluminum-heavy compound is the most endothermic metal ever discovered",
+    "shortdescription": "Isogen Ore",
+    "itemTags": [
+        "reagent"
+    ]
+}

@@ -1,1 +1,12 @@
-{"itemName": "enx_carbondioxide", "rarity": "Common", "price": 1, "category": "craftingMaterial", "inventoryIcon": "fu_carbondioxide.png", "description": "A common trace gas with many applications.", "shortdescription": "Carbon Dioxide", "itemTags": ["reagent"]}
+{
+    "itemName": "enx_carbondioxide",
+    "rarity": "Common",
+    "price": 1,
+    "category": "craftingMaterial",
+    "inventoryIcon": "fu_carbondioxide.png",
+    "description": "A common trace gas with many applications.",
+    "shortdescription": "Carbon Dioxide",
+    "itemTags": [
+        "reagent"
+    ]
+}

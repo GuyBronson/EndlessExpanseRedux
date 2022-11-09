@@ -1,1 +1,16 @@
-{"itemName": "enx_silicon", "rarity": "uncommon", "price": 10, "category": "craftingMaterial", "inventoryIcon": "ff_silicon.png", "description": "This element has many uses in science and tech due to its semiconductor property.", "shortdescription": "Silicon", "radioMessagesOnPickup": ["pickupSilicon"], "foodValue": 12, "itemTags": ["reagent"]}
+{
+    "itemName": "enx_silicon",
+    "rarity": "uncommon",
+    "price": 10,
+    "category": "craftingMaterial",
+    "inventoryIcon": "ff_silicon.png",
+    "description": "This element has many uses in science and tech due to its semiconductor property.",
+    "shortdescription": "Silicon",
+    "radioMessagesOnPickup": [
+        "pickupSilicon"
+    ],
+    "foodValue": 12,
+    "itemTags": [
+        "reagent"
+    ]
+}

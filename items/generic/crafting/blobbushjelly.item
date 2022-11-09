@@ -1,1 +1,15 @@
-{"itemName": "enx_blobbushjelly", "rarity": "uncommon", "price": 33, "category": "craftingMaterial", "inventoryIcon": "blobbushjelly.png", "description": "A strange slime with fascinating properties. May be toxic.", "shortdescription": "Putrid Slime", "radioMessagesOnPickup": ["pickupBlobbushjelly"], "itemTags": ["reagent"]}
+{
+    "itemName": "enx_blobbushjelly",
+    "rarity": "uncommon",
+    "price": 33,
+    "category": "craftingMaterial",
+    "inventoryIcon": "blobbushjelly.png",
+    "description": "A strange slime with fascinating properties. May be toxic.",
+    "shortdescription": "Putrid Slime",
+    "radioMessagesOnPickup": [
+        "pickupBlobbushjelly"
+    ],
+    "itemTags": [
+        "reagent"
+    ]
+}

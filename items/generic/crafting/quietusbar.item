@@ -1,1 +1,12 @@
-{"itemName": "enx_quietusbar", "rarity": "rare", "price": 630, "category": "craftingMaterial", "inventoryIcon": "quietusbar.png", "description": "Able to hold super-sharp edges, and withstand kinetic force.", "shortdescription": "Quietus Bar", "itemTags": ["reagent"]}
+{
+    "itemName": "enx_quietusbar",
+    "rarity": "rare",
+    "price": 630,
+    "category": "craftingMaterial",
+    "inventoryIcon": "quietusbar.png",
+    "description": "Able to hold super-sharp edges, and withstand kinetic force.",
+    "shortdescription": "Quietus Bar",
+    "itemTags": [
+        "reagent"
+    ]
+}

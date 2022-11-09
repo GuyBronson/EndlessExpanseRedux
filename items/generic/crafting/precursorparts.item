@@ -1,10 +1,12 @@
 {
-  "itemName" : "enx_precursorparts",
-  "rarity" : "uncommon",
-  "price" : 400,
-  "category" : "craftingMaterial",
-  "inventoryIcon" : "precursorparts.png",
-  "description" : "Details used in precursor technology, their purpose is deducible, but their manufactoring process is lost.",
-  "shortdescription" : "Precursor Parts",
-  "itemTags" : [ "reagent" ]
+    "itemName": "enx_precursorparts",
+    "rarity": "uncommon",
+    "price": 400,
+    "category": "craftingMaterial",
+    "inventoryIcon": "precursorparts.png",
+    "description": "Details used in precursor technology, their purpose is deducible, but their manufactoring process is lost.",
+    "shortdescription": "Precursor Parts",
+    "itemTags": [
+        "reagent"
+    ]
 }

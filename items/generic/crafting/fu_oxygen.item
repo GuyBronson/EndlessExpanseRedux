@@ -1,1 +1,15 @@
-{"itemName": "enx_oxygen", "rarity": "common", "price": 0, "category": "craftingMaterial", "inventoryIcon": "fu_oxygen.png", "description": "Oxygen is one of the most versatile elements, with many uses.", "shortdescription": "Oxygen", "radioMessagesOnPickup": ["pickupOxygen"], "itemTags": ["reagent"]}
+{
+    "itemName": "enx_oxygen",
+    "rarity": "common",
+    "price": 0,
+    "category": "craftingMaterial",
+    "inventoryIcon": "fu_oxygen.png",
+    "description": "Oxygen is one of the most versatile elements, with many uses.",
+    "shortdescription": "Oxygen",
+    "radioMessagesOnPickup": [
+        "pickupOxygen"
+    ],
+    "itemTags": [
+        "reagent"
+    ]
+}

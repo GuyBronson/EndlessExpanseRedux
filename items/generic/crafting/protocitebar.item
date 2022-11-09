@@ -1,1 +1,12 @@
-{"itemName": "enx_protocitebar", "rarity": "uncommon", "price": 270, "category": "craftingMaterial", "inventoryIcon": "protocitebar.png", "description": "A bar of compressed protocite, found on Protoworlds.", "shortdescription": "Protocite Bar", "itemTags": ["reagent"]}
+{
+    "itemName": "enx_protocitebar",
+    "rarity": "uncommon",
+    "price": 270,
+    "category": "craftingMaterial",
+    "inventoryIcon": "protocitebar.png",
+    "description": "A bar of compressed protocite, found on Protoworlds.",
+    "shortdescription": "Protocite Bar",
+    "itemTags": [
+        "reagent"
+    ]
+}

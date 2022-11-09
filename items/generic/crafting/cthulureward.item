@@ -1,1 +1,16 @@
-{"itemName": "enx_cthulureward", "price": 12600, "rarity": "legendary", "inventoryIcon": "cthulureward.png", "category": "artifact", "description": "A strange, unknowably ancient artifact.", "radioMessagesOnPickup": ["pickupCthulhureward"], "shortdescription": "^#ffe50e;Elder Artifact^reset;", "itemTags": ["reagent", "artifact"]}
+{
+    "itemName": "enx_cthulureward",
+    "price": 12600,
+    "rarity": "legendary",
+    "inventoryIcon": "cthulureward.png",
+    "category": "artifact",
+    "description": "A strange, unknowably ancient artifact.",
+    "radioMessagesOnPickup": [
+        "pickupCthulhureward"
+    ],
+    "shortdescription": "^#ffe50e;Elder Artifact^reset;",
+    "itemTags": [
+        "reagent",
+        "artifact"
+    ]
+}

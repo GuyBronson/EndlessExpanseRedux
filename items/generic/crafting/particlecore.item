@@ -1,1 +1,12 @@
-{"itemName": "enx_particlecore", "rarity": "uncommon", "price": 4670, "category": "craftingMaterial", "inventoryIcon": "particlecore.png", "description": "The energy source for particle weapons.", "shortdescription": "^#77acc3;Particle Core^reset;", "itemTags": ["reagent"]}
+{
+    "itemName": "enx_particlecore",
+    "rarity": "uncommon",
+    "price": 4670,
+    "category": "craftingMaterial",
+    "inventoryIcon": "particlecore.png",
+    "description": "The energy source for particle weapons.",
+    "shortdescription": "^#77acc3;Particle Core^reset;",
+    "itemTags": [
+        "reagent"
+    ]
+}

@@ -1,1 +1,13 @@
-{"itemName": "enx_isogenbar", "rarity": "legendary", "price": 860, "category": "craftingMaterial", "inventoryIcon": "isogenbar.png", "description": "A super-cold alloy with numerous powerful applications.\nOften located on Ice Wastes.", "tooltipKind": "fossil", "shortdescription": "Isogen Bar", "itemTags": ["reagent"]}
+{
+    "itemName": "enx_isogenbar",
+    "rarity": "legendary",
+    "price": 860,
+    "category": "craftingMaterial",
+    "inventoryIcon": "isogenbar.png",
+    "description": "A super-cold alloy with numerous powerful applications.\nOften located on Ice Wastes.",
+    "tooltipKind": "fossil",
+    "shortdescription": "Isogen Bar",
+    "itemTags": [
+        "reagent"
+    ]
+}
