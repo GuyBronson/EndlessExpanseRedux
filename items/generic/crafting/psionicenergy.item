@@ -1,0 +1,11 @@
+{
+  "itemName": "enx_psionicenergy",
+  "rarity": "uncommon",
+  "category": "craftingMaterial",
+  "price": 60,
+  "inventoryIcon": "psionicenergy.png",
+  "description": "The harnessed mental energy of sapient beings, ready to be used as power.\n^blue;+^white;30 ^blue;Fuel^reset;",
+  "shortdescription": "Psionic Energy",
+  "itemTags": ["reagent"],
+  "fuelAmount": 30
+}
