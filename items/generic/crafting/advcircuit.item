@@ -1,0 +1,12 @@
+{
+    "itemName": "enx_advcircuit",
+    "rarity": "uncommon",
+    "price": 48,
+    "category": "craftingMaterial",
+    "inventoryIcon": "advcircuit.png",
+    "description": "A robust and advanced circuit board.",
+    "shortdescription": "^#77acc3;Advanced Circuit^reset;",
+    "itemTags": [
+        "reagent"
+    ]
+}

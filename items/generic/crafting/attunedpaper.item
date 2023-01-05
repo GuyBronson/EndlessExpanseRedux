@@ -1,0 +1,12 @@
+{
+    "itemName": "enx_attunedpaper",
+    "rarity": "rare",
+    "category": "craftingMaterial",
+    "price": 40,
+    "inventoryIcon": "attunedpaper.png",
+    "description": "Able to hold the energy of the cosmos.",
+    "shortdescription": "Attuned Papyrus",
+    "itemTags": [
+        "reagent"
+    ]
+}

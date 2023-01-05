@@ -1,0 +1,12 @@
+{
+    "itemName": "enx_moonstonebar",
+    "rarity": "common",
+    "price": 125,
+    "category": "craftingMaterial",
+    "inventoryIcon": "moonstonebar.png",
+    "description": "Forged Telebrium, commonly found on moons.",
+    "shortdescription": "Telebrium Bar",
+    "itemTags": [
+        "reagent"
+    ]
+}

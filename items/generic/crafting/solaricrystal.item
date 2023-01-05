@@ -1,0 +1,12 @@
+{
+    "itemName": "enx_solaricrystal",
+    "rarity": "common",
+    "price": 125,
+    "category": "craftingMaterial",
+    "inventoryIcon": "solaricrystal.png",
+    "description": "Condensed and hardened Lunari crystal.",
+    "shortdescription": "Lunari Crystal",
+    "itemTags": [
+        "reagent"
+    ]
+}

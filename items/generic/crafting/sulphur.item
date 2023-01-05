@@ -1,0 +1,16 @@
+{
+    "itemName": "enx_sulphur",
+    "price": 10,
+    "rarity": "Common",
+    "category": "craftingMaterial",
+    "inventoryIcon": "sulphur.png",
+    "description": "This common element is essential to life despite readily forming explosive compounds.",
+    "shortdescription": "Sulphur",
+    "tooltipKind": "fossil",
+    "itemTags": [
+        "reagent"
+    ],
+    "radioMessagesOnPickup": [
+        "pickupSulphur"
+    ]
+}

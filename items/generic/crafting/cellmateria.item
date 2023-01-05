@@ -1,0 +1,12 @@
+{
+    "itemName": "enx_cellmateria",
+    "rarity": "Common",
+    "price": 80,
+    "category": "craftingMaterial",
+    "inventoryIcon": "cellmateria.png",
+    "description": "A material produced from various mixtures of cells.",
+    "shortdescription": "Cell Material",
+    "itemTags": [
+        "reagent"
+    ]
+}

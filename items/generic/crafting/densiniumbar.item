@@ -1,0 +1,12 @@
+{
+    "itemName": "enx_densiniumbar",
+    "rarity": "legendary",
+    "price": 840,
+    "category": "craftingMaterial",
+    "inventoryIcon": "densiniumbar.png",
+    "description": "A rare multi-phasic super-dense metal.",
+    "shortdescription": "Densinium Bar",
+    "itemTags": [
+        "reagent"
+    ]
+}

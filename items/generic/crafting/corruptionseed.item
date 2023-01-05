@@ -1,0 +1,19 @@
+{
+    "itemName": "enx_corruptionseed",
+    "rarity": "rare",
+    "price": 370,
+    "category": "craftingMaterial",
+    "inventoryIcon": "corruptionseed.png",
+    "description": "Applied sparingly to various materials to encourage unusual changes in structure.",
+    "radioMessagesOnPickup": [
+        "pickupCorruptionseed"
+    ],
+    "shortdescription": "^#88e25b;Lasombrium Seed^reset;",
+    "tooltipKind": "fossil",
+    "itemTags": [
+        "reagent",
+        "norecycling",
+        "norecycler",
+        "nouncrafting"
+    ]
+}

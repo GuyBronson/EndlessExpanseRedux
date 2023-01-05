@@ -1,0 +1,35 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/learnBlueprintsOnPickup",
+            "inverse": true
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup",
+            "value": []
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/pickupQuestTemplates",
+            "inverse": true
+        },
+        {
+            "op": "add",
+            "path": "/pickupQuestTemplates",
+            "value": []
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/radioMessagesOnPickup",
+            "value": [
+                "pickupBone"
+            ]
+        }
+    ]
+]

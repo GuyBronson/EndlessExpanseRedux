@@ -1,0 +1,15 @@
+{
+    "itemName": "enx_aliencompound",
+    "rarity": "rare",
+    "price": 100,
+    "category": "craftingMaterial",
+    "inventoryIcon": "aliencompound.png",
+    "description": "Strange compounds with various amazing uses in scientific research.",
+    "shortdescription": "^#88e25b;Alien Compound^reset;",
+    "radioMessagesOnPickup": [
+        "pickupAliencompound"
+    ],
+    "itemTags": [
+        "reagent"
+    ]
+}

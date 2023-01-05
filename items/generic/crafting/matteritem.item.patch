@@ -1,0 +1,14 @@
+[
+    [
+        {
+            "op": "replace",
+            "path": "/shortdescription",
+            "value": "Matter Chunk"
+        },
+        {
+            "op": "replace",
+            "path": "/description",
+            "value": "A matter chunk. A chunk that matters."
+        }
+    ]
+]

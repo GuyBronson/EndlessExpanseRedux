@@ -1,0 +1,12 @@
+{
+    "itemName": "enx_fuelcatalyst",
+    "price": 120,
+    "rarity": "Rare",
+    "category": "craftingMaterial",
+    "inventoryIcon": "fuelcatalyst.png",
+    "description": "A material used as a catalyst to refine mech fuel.",
+    "shortdescription": "Fuel Catalyst",
+    "itemTags": [
+        "reagent"
+    ]
+}

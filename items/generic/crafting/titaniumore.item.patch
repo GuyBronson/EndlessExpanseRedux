@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "Titanium Ore"
+    },
+    {
+        "op": "replace",
+        "path": "/category",
+        "value": "craftingOre"
+    }
+]

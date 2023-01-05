@@ -1,0 +1,12 @@
+{
+    "itemName": "enx_honedlunari",
+    "rarity": "legendary",
+    "price": 1800,
+    "category": "craftingMaterial",
+    "inventoryIcon": "honedlunari.png",
+    "description": "A perfectly re-shaped piece of lunari, ready to charge with energy.",
+    "shortdescription": "Honed Lunari",
+    "itemTags": [
+        "reagent"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "itemName": "enx_methanol",
+    "rarity": "Common",
+    "price": 10,
+    "category": "craftingMaterial",
+    "inventoryIcon": "methanol.png",
+    "description": "This light, volatile alcohol is produced from destructive extraction from wood.",
+    "shortdescription": "Methanol",
+    "radioMessagesOnPickup": [
+        "pickupMethanol"
+    ],
+    "itemTags": [
+        "reagent"
+    ]
+}

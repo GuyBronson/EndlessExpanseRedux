@@ -1,0 +1,12 @@
+{
+    "itemName": "enx_darkmatter",
+    "rarity": "rare",
+    "category": "craftingMaterial",
+    "price": 60,
+    "inventoryIcon": "darkmatter.png",
+    "description": "The stuff of raw entropy across the universe.",
+    "shortdescription": "Dark Matter",
+    "itemTags": [
+        "reagent"
+    ]
+}

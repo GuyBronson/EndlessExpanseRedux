@@ -1,0 +1,13 @@
+{
+    "itemName": "enx_zerchesiumbar",
+    "rarity": "uncommon",
+    "price": 336,
+    "category": "craftingMaterial",
+    "inventoryIcon": "zerchesiumbar.png",
+    "description": "Has the highest melting point of any known alloy, much greater than even tungsten! Found on Mountainous worlds.",
+    "tooltipKind": "fossil",
+    "shortdescription": "Zerchesium Bar",
+    "itemTags": [
+        "reagent"
+    ]
+}

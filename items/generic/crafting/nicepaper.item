@@ -1,0 +1,12 @@
+{
+    "itemName": "enx_nicepaper",
+    "rarity": "uncommon",
+    "category": "craftingMaterial",
+    "price": 20,
+    "inventoryIcon": "nicepaper.png",
+    "description": "A high quality, stiff paper.",
+    "shortdescription": "High Grade Paper",
+    "itemTags": [
+        "reagent"
+    ]
+}

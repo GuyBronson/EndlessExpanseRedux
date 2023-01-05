@@ -1,0 +1,13 @@
+{
+    "itemName": "enx_fertilizer",
+    "rarity": "uncommon",
+    "price": 158,
+    "category": "craftingMaterial",
+    "inventoryIcon": "fertilizer.png",
+    "tooltipKind": "codex",
+    "description": "It's what plants crave.\n^green;Growth Rate x^white;2 ^gray;& ^green;+^white;2 ^green;produce.\n^cyan;-^white;1 ^cyan;seed use^reset;",
+    "shortdescription": "Fertilizer",
+    "itemTags": [
+        "reagent"
+    ]
+}

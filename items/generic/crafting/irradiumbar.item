@@ -1,0 +1,12 @@
+{
+    "itemName": "enx_irradiumbar",
+    "rarity": "rare",
+    "price": 420,
+    "category": "craftingMaterial",
+    "inventoryIcon": "irradiumbar.png",
+    "description": "Compressed, purified irradium. Generally found on Irradiated worlds.",
+    "shortdescription": "Irradium Bar",
+    "itemTags": [
+        "reagent"
+    ]
+}

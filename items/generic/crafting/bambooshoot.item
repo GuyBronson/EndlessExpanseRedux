@@ -1,0 +1,15 @@
+{
+    "itemName": "enx_bambooshoot",
+    "rarity": "Common",
+    "price": 14,
+    "category": "craftingMaterial",
+    "inventoryIcon": "bambooshoot.png",
+    "description": "Bamboo for crafting goods.",
+    "shortdescription": "Bamboo Shoot",
+    "radioMessagesOnPickup": [
+        "pickupBambooshoot"
+    ],
+    "itemTags": [
+        "reagent"
+    ]
+}

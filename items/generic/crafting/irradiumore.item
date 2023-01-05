@@ -1,0 +1,15 @@
+{
+    "itemName": "enx_irradiumore",
+    "rarity": "rare",
+    "price": 200,
+    "category": "craftingOre",
+    "inventoryIcon": "irradiumore.png",
+    "description": "Irradium is a rare and valuable radioactive metal. Handle with care!",
+    "shortdescription": "Irradium Ore",
+    "radioMessagesOnPickup": [
+        "pickupIrradium"
+    ],
+    "itemTags": [
+        "reagent"
+    ]
+}

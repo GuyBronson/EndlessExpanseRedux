@@ -1,0 +1,15 @@
+{
+    "itemName": "enx_exoticmatter",
+    "rarity": "rare",
+    "price": 200,
+    "category": "craftingMaterial",
+    "inventoryIcon": "exoticmatter.png",
+    "description": "Elusive, and potentially impossible.",
+    "shortdescription": "Exotic Matter",
+    "learnBlueprintsOnPickup": [
+        "exoticmatter"
+    ],
+    "itemTags": [
+        "reagent"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "itemName": "enx_corruptionore",
+    "rarity": "rare",
+    "price": 300,
+    "category": "craftingOre",
+    "inventoryIcon": "corruptionore.png",
+    "description": "A strange entropy-riddled ore that bridges two realities together.",
+    "shortdescription": "Lasombrium",
+    "radioMessagesOnPickup": [
+        "pickupCorruption"
+    ],
+    "itemTags": [
+        "reagent",
+        "norecycling",
+        "norecycler",
+        "nouncrafting"
+    ]
+}
